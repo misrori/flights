@@ -39,7 +39,7 @@ def get_one_dest(destination_id):
         'incomming_start': x['route'][-1]['local_departure'],
         'incomming_arrival': x['route'][-1]['local_arrival'],
         'night_in_dest': x['nightsInDest'],
-        'link':x['deep_link'] 
+        'link':x['deep_link'] ,
         'stop': x['technical_stops']
         },data['data'] )))
     
