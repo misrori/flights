@@ -109,6 +109,7 @@ data_frames = []
 for airport_id in airport_ids[0:5]:
     try:
         df = get_one_dest(airport_id)
+        df['dest_id'] = airport_id
         data_frames.append(df)
     except:
         print(f'error: {airport_id}')
