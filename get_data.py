@@ -50,7 +50,7 @@ START_LOCATION_ID = "BUD"
 MAX_PLAN_FORWARD_DAYS = 180
 MAX_RADIUS=6000
 MIN_STAY = 0
-MAX_STAY = 15
+MAX_STAY = 7
 JSON_DATA = 'json_data'
 CSV_DATA ='csv_data'
 LAST_PRICE = CSV_DATA + '/last_prices.csv'
@@ -104,7 +104,6 @@ data_frames = []
 
 
 for airport_id in airport_ids:
-    print(airport_id)
     try:
         df = get_one_dest(airport_id)
         data_frames.append(df)
@@ -113,6 +112,7 @@ for airport_id in airport_ids:
 
 combined_df = pd.concat(data_frames, ignore_index=True)
 
+combined_df = combined_df[combined_df['price']<200]
 
 combined_df.to_csv(f'{CSV_DATA}/{datetime.now().strftime("%Y_%m_%d_")}BUD', index=False)
 
