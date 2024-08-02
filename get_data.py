@@ -56,6 +56,7 @@ MAX_STAY = 7
 JSON_DATA = 'json_data'
 CSV_DATA ='csv_data'
 LAST_PRICE = CSV_DATA + '/last_prices.csv'
+TOP3_FLIGHTS = CSV_DATA + '/top3_flights.csv'
 
 if not os.path.exists(JSON_DATA):
     os.makedirs(JSON_DATA)
@@ -122,4 +123,64 @@ combined_df = combined_df[combined_df['price']<200]
 
 combined_df.to_csv(f'{CSV_DATA}/{datetime.now().strftime("%Y_%m_%d_")}BUD', index=False)
 
-combined_df.to_csv(LAST_PRICE, index=False)
+
+df = combined_df
+
+
+# process_data
+def classify_time(hour):
+    if hour < 10:
+        return 'morning'
+    elif hour >= 17:
+        return 'night'
+    else:
+        return 'during the day'
+
+df['outgoing_start'] = pd.to_datetime(df['outgoing_start'])
+df['out_date'] = df['outgoing_start'].dt.date
+df['out_time'] = df['outgoing_start'].dt.time
+df['out_day'] = df['outgoing_start'].dt.strftime('%A')
+df['out_day_time'] = df['outgoing_start'].apply(lambda x: classify_time(x.hour))
+
+
+df['incomming_start'] = pd.to_datetime(df['incomming_start'])
+df['incomming_date'] = df['incomming_start'].dt.date
+df['incomming_time'] = df['incomming_start'].dt.time
+df['incomming_day'] = df['incomming_start'].dt.strftime('%A')
+df['incomming_day_time'] = df['incomming_start'].apply(lambda x: classify_time(x.hour))
+
+
+df = df.merge(locations[['id', 'country']], left_on='dest_id', right_on='id')
+
+
+important_columns = {
+    'to': 'varos',
+    'price': 'ar',
+    'night_in_dest' : 'napok',
+    'country': 'orszag',
+    'out_date': 'indulas',
+    'out_day': 'indulas_nap',
+    'out_time': 'indulas_ido',
+    'out_day_time':'indulas_napszak',
+    'incomming_date': 'vissza',
+    'incomming_day':'vissza_nap',
+    'incomming_time': 'vissza_ido',
+    'incomming_day_time': 'vissza_napszak',
+    'stop':'atszallas',
+    'link':'link'
+}
+
+# rename
+flights = df[list(important_columns.keys())].rename(columns=important_columns)
+flights.sort_values(by=['varos', 'ar'],inplace=True)
+
+flights.to_csv(LAST_PRICE, index=False)
+
+
+# processed data
+top3_flights = flights.groupby('varos').head(3)
+top3_flights.to_csv(TOP3_FLIGHTS, index=False)
+
+
+
+
