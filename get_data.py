@@ -92,6 +92,9 @@ locations = pd.DataFrame(list(map(lambda x:{
     'rank':x['rank']
 },  data['locations'] )))
 
+
+locations.to_csv(f'{CSV_DATA}/airportrs.csv', index=False)
+
 airport_ids = list(locations[locations['continent']== 'Europe']['id'])
 
 
@@ -103,7 +106,7 @@ future_date_string = future_date.strftime("%d/%m/%Y")
 data_frames = []
 
 
-for airport_id in airport_ids:
+for airport_id in airport_ids[0:5]:
     try:
         df = get_one_dest(airport_id)
         data_frames.append(df)
