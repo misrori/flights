@@ -103,7 +103,7 @@ future_date_string = future_date.strftime("%d/%m/%Y")
 data_frames = []
 
 
-for airport_id in airport_ids[0:3]:
+for airport_id in airport_ids:
     print(airport_id)
     try:
         df = get_one_dest(airport_id)
