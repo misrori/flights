@@ -32,7 +32,7 @@ jobs:
     
       - name: execute py script # run main.py
         env:
-          GCP_PROJECT_ID: ${{ secrets.KIWI_TOKEN }}
+          KIWI_TOKEN: ${{ secrets.KIWI_TOKEN }}
         run: python get_data.py
 
       - name: commit files
