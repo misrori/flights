@@ -9,6 +9,19 @@ import json
 import os
 load_dotenv()
 
+KIWI_API_KEY = os.environ.get('KIWI_TOKEN')
+START_LOCATION_ID = "BUD"
+MAX_PLAN_FORWARD_DAYS = 180
+MAX_RADIUS=6000
+MIN_STAY = 0
+MAX_STAY = 7
+JSON_DATA = 'json_data'
+CSV_DATA ='csv_data'
+LAST_PRICE = CSV_DATA + '/last_prices.csv'
+TOP3_FLIGHTS = CSV_DATA + '/top3_flights.csv'
+
+
+
 def get_one_dest(destination_id):
 
     params = {
@@ -18,7 +31,8 @@ def get_one_dest(destination_id):
         'date_to': future_date_string,
         'adults': '1',
         'nights_in_dst_from':MIN_STAY,
-        'nights_in_dst_to':MAX_STAY
+        'nights_in_dst_to':MAX_STAY,
+        'curr':'HUF'
 
     }
 
@@ -35,28 +49,19 @@ def get_one_dest(destination_id):
         'from': x['cityFrom'], 
         'to':x['cityTo'],
         'price': x['price'], 
-        'outgoing_start' : x['local_departure'], 
-        'incomming_start': x['route'][-1]['local_departure'],
-        'incomming_arrival': x['route'][-1]['local_arrival'],
+        'outgoing_start' : x['route'][0] ['local_departure'], 
+        'outgoing_arrival' : x['route'][0] ['local_arrival'], 
+        'incomming_start': [fl for fl in x['route'] if fl['flyFrom']!='BUD'][0] ['local_departure'],
+        'incomming_arrival': [fl for fl in x['route'] if fl['flyFrom']!='BUD'][0] ['local_arrival'],
         'night_in_dest': x['nightsInDest'],
         'link':x['deep_link'] ,
         'stop': x['technical_stops']
         },data['data'] )))
     
-
+    df['price'] = df['price'].astype(int)
+    
     return(df)
 
-
-KIWI_API_KEY = os.environ.get('KIWI_TOKEN')
-START_LOCATION_ID = "BUD"
-MAX_PLAN_FORWARD_DAYS = 180
-MAX_RADIUS=6000
-MIN_STAY = 0
-MAX_STAY = 7
-JSON_DATA = 'json_data'
-CSV_DATA ='csv_data'
-LAST_PRICE = CSV_DATA + '/last_prices.csv'
-TOP3_FLIGHTS = CSV_DATA + '/top3_flights.csv'
 
 if not os.path.exists(JSON_DATA):
     os.makedirs(JSON_DATA)
@@ -69,6 +74,7 @@ headers = {
     'apikey': KIWI_API_KEY,
 }
 
+# get locations
 params = {
     'lat': '47',
     'lon': '19',
@@ -109,7 +115,7 @@ future_date_string = future_date.strftime("%d/%m/%Y")
 data_frames = []
 
 
-for airport_id in airport_ids[0:5]:
+for airport_id in airport_ids[0:10]:
     try:
         df = get_one_dest(airport_id)
         df['dest_id'] = airport_id
@@ -119,7 +125,7 @@ for airport_id in airport_ids[0:5]:
 
 combined_df = pd.concat(data_frames, ignore_index=True)
 
-combined_df = combined_df[combined_df['price']<200]
+combined_df = combined_df[combined_df['price']<50000]
 
 combined_df.to_csv(f'{CSV_DATA}/{datetime.now().strftime("%Y_%m_%d_")}BUD', index=False)
 
@@ -172,7 +178,7 @@ important_columns = {
 
 # rename
 flights = df[list(important_columns.keys())].rename(columns=important_columns)
-flights.sort_values(by=['varos', 'ar'],inplace=True)
+flights.sort_values(by=['ar', 'varos'],inplace=True)
 
 flights.to_csv(LAST_PRICE, index=False)
 
