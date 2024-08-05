@@ -40,10 +40,10 @@ def get_one_dest(destination_id):
 
     data = response.json()
 
-    file_path = JSON_DATA + '/' + datetime.now().strftime("%Y_%m_%d_") + START_LOCATION_ID + '-' +destination_id + '.csv'
-    with open(file_path, 'w') as json_file:
-        # Step 4: Use json.dump() to write the dictionary to the file
-        json.dump(data, json_file, indent=4)
+#   file_path = JSON_DATA + '/' + datetime.now().strftime("%Y_%m_%d_") + START_LOCATION_ID + '-' +destination_id + '.csv'
+#    with open(file_path, 'w') as json_file:
+#        # Step 4: Use json.dump() to write the dictionary to the file
+#        json.dump(data, json_file, indent=4)
 
     df = pd.DataFrame(list(map(lambda x: {
         'from': x['cityFrom'], 
@@ -115,7 +115,7 @@ future_date_string = future_date.strftime("%d/%m/%Y")
 data_frames = []
 
 
-for airport_id in airport_ids[0:10]:
+for airport_id in airport_ids:
     try:
         df = get_one_dest(airport_id)
         df['dest_id'] = airport_id
@@ -136,11 +136,11 @@ df = combined_df
 # process_data
 def classify_time(hour):
     if hour < 10:
-        return 'morning'
+        return 'reggel'
     elif hour >= 17:
-        return 'night'
+        return 'este'
     else:
-        return 'during the day'
+        return 'napközben'
 
 df['outgoing_start'] = pd.to_datetime(df['outgoing_start'])
 df['out_date'] = df['outgoing_start'].dt.date
