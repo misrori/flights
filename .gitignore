@@ -2,5 +2,6 @@
 .env
 /.venv
 
-/csv_data
-/json_data
+/csv_data/*
+/json_data/*
+
