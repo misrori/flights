@@ -59,7 +59,7 @@ def get_one_dest(destination_id):
         },data['data'] )))
     
     df['price'] = df['price'].astype(int)
-    
+    df['dest_id'] =  destination_id 
     return(df)
 
 
@@ -118,7 +118,6 @@ data_frames = []
 for airport_id in airport_ids:
     try:
         df = get_one_dest(airport_id)
-        df['dest_id'] = airport_id
         data_frames.append(df)
     except:
         print(f'error: {airport_id}')
@@ -173,6 +172,7 @@ important_columns = {
     'incomming_time': 'vissza_ido',
     'incomming_day_time': 'vissza_napszak',
     'stop':'atszallas',
+    'dest_id': 'repter_id',
     'link':'link'
 }
 
