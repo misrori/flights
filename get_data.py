@@ -56,7 +56,7 @@ def get_one_dest(destination_id):
         'night_in_dest': x['nightsInDest'],
         'link':x['deep_link'] ,
         'stop_oda': [fl['flyTo'] for fl in x['route'] ].index(destination_id),
-        'stop_vissza': len([fl['flyTo'] for fl in x['route'] ]) -([fl['flyTo'] for fl in x['route'] ].index(destination_id) +1)
+        'stop_vissza': (len([fl['flyTo'] for fl in x['route'] ]) -([fl['flyTo'] for fl in x['route'] ].index(destination_id) +1))-1
         },data['data'] )))
     
     df['price'] = df['price'].astype(int)
