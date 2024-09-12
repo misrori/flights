@@ -183,6 +183,7 @@ flights = df[list(important_columns.keys())].rename(columns=important_columns)
 flights.sort_values(by=['ar', 'varos'],inplace=True)
 
 flights.to_csv(LAST_PRICE, index=False)
+flights.to_csv(f'{CSV_DATA}/{datetime.now().strftime("%Y_%m_%d_")}BUD', index=False)
 
 
 # processed data
