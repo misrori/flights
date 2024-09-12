@@ -50,12 +50,13 @@ def get_one_dest(destination_id):
         'to':x['cityTo'],
         'price': x['price'], 
         'outgoing_start' : x['route'][0] ['local_departure'], 
-        'outgoing_arrival' : x['route'][0] ['local_arrival'], 
-        'incomming_start': [fl for fl in x['route'] if fl['flyFrom']!='BUD'][0] ['local_departure'],
-        'incomming_arrival': [fl for fl in x['route'] if fl['flyFrom']!='BUD'][0] ['local_arrival'],
+        'outgoing_arrival' : [fl for fl in x['route'] if fl['flyTo']==destination_id][0]['local_arrival'], 
+        'incomming_start': [fl for fl in x['route'] if fl['flyFrom']==destination_id][0]['local_departure'],
+        'incomming_arrival': [fl for fl in x['route'] if fl['flyTo']=='BUD'][0]['local_departure'],
         'night_in_dest': x['nightsInDest'],
         'link':x['deep_link'] ,
-        'stop': x['technical_stops']
+        'stop_oda': [fl['flyTo'] for fl in x['route'] ].index(destination_id),
+        'stop_vissza': (len([fl['flyTo'] for fl in x['route'] ]) -([fl['flyTo'] for fl in x['route'] ].index(destination_id) +1))-1
         },data['data'] )))
     
     df['price'] = df['price'].astype(int)
@@ -171,7 +172,8 @@ important_columns = {
     'incomming_day':'vissza_nap',
     'incomming_time': 'vissza_ido',
     'incomming_day_time': 'vissza_napszak',
-    'stop':'atszallas',
+    'stop_oda':'atszallas_oda',
+    'stop_vissza':'atszallas_vissza',
     'dest_id': 'repter_id',
     'link':'link'
 }
