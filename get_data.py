@@ -19,6 +19,8 @@ JSON_DATA = 'json_data'
 CSV_DATA ='csv_data'
 LAST_PRICE = CSV_DATA + '/last_prices.csv'
 TOP3_FLIGHTS = CSV_DATA + '/top3_flights.csv'
+TODATE = datetime.now().strftime("%Y_%m_%d_")
+NEW_FILE = CSV_DATA + '/' + TODATE + 'BUD.csv'
 
 
 
@@ -127,7 +129,6 @@ combined_df = pd.concat(data_frames, ignore_index=True)
 
 combined_df = combined_df[combined_df['price']<50000]
 
-combined_df.to_csv(f'{CSV_DATA}/{datetime.now().strftime("%Y_%m_%d_")}BUD', index=False)
 
 
 df = combined_df
@@ -183,7 +184,7 @@ flights = df[list(important_columns.keys())].rename(columns=important_columns)
 flights.sort_values(by=['ar', 'varos'],inplace=True)
 
 flights.to_csv(LAST_PRICE, index=False)
-flights.to_csv(f'{CSV_DATA}/{datetime.now().strftime("%Y_%m_%d_")}BUD', index=False)
+flights.to_csv(NEW_FILE, index=False)
 
 
 # processed data
