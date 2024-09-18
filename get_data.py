@@ -20,7 +20,7 @@ CSV_DATA ='csv_data'
 LAST_PRICE = CSV_DATA + '/last_prices.csv'
 TOP3_FLIGHTS = CSV_DATA + '/top3_flights.csv'
 TODATE = datetime.now().strftime("%Y_%m_%d_")
-NEW_FILE = CSV_DATA + '/' + TODATE + 'BUD.csv'
+NEW_FILE = CSV_DATA + '/' + TODATE + 'BUD'
 
 
 
