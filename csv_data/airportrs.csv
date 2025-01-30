@@ -2,500 +2,500 @@ id,name,city,country,continent,region,lon,lat,rank
 BCN,Barcelona–El Prat,Barcelona,Spain,Europe,Southern Europe,2.078333,41.296944,12
 TLV,Ben Gurion,Tel Aviv,Israel,Asia,Western Asia,34.880556,32.007222,15
 DEL,Indira Gandhi International,New Delhi,India,Asia,Southern Asia,77.103056,28.566389,22
-MAD,Adolfo Suárez Madrid–Barajas,Madrid,Spain,Europe,Southern Europe,-3.566667,40.493611,26
-IST,Istanbul Airport,Istanbul,Turkey,Asia,Western Asia,28.751944,41.275278,27
-CAI,Cairo International,Cairo,Egypt,Africa,Northern Africa,31.405556,30.121944,28
-LIS,Lisbon Portela,Lisbon,Portugal,Europe,Southern Europe,-9.134167,38.774167,29
-LHR,Heathrow,London,United Kingdom,Europe,Northern Europe,-0.461389,51.4775,30
-FCO,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,Europe,Southern Europe,12.238889,41.800278,33
-CDG,Charles de Gaulle Airport,Paris,France,Europe,Western Europe,2.547778,49.009722,36
-JED,King Abdulaziz International,Jeddah,Saudi Arabia,Asia,Western Asia,39.156667,21.679444,37
+MAD,Adolfo Suárez Madrid–Barajas,Madrid,Spain,Europe,Southern Europe,-3.566667,40.493611,25
+IST,Istanbul Airport,Istanbul,Turkey,Asia,Western Asia,28.751944,41.275278,26
+LIS,Lisbon Portela,Lisbon,Portugal,Europe,Southern Europe,-9.134167,38.774167,28
+CAI,Cairo International,Cairo,Egypt,Africa,Northern Africa,31.405556,30.121944,29
+FCO,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,Europe,Southern Europe,12.238889,41.800278,32
+JED,King Abdulaziz International,Jeddah,Saudi Arabia,Asia,Western Asia,39.156667,21.679444,33
+LHR,Heathrow,London,United Kingdom,Europe,Northern Europe,-0.461389,51.4775,35
+CDG,Charles de Gaulle Airport,Paris,France,Europe,Western Europe,2.547778,49.009722,40
 DXB,Dubai International,Dubai,United Arab Emirates,Asia,Western Asia,55.364444,25.252778,41
 ATH,Athens International,Athens,Greece,Europe,Southern Europe,23.944444,37.936389,42
 LGW,Gatwick,London,United Kingdom,Europe,Northern Europe,-0.190278,51.148056,44
-ORY,Paris Orly,Paris,France,Europe,Western Europe,2.379444,48.723333,52
+ORY,Paris Orly,Paris,France,Europe,Western Europe,2.379444,48.723333,50
 CPH,Airport Copenhagen,Copenhagen,Denmark,Europe,Northern Europe,12.650278,55.620278,54
-BUD,Budapest Ferenc Liszt International,Budapest,Hungary,Europe,Central Europe,19.255556,47.436944,58
-DUB,Dublin,Dublin,Ireland,Europe,Northern Europe,-6.27,53.421389,59
-RUH,King Khalid International,Riyadh,Saudi Arabia,Asia,Western Asia,46.698889,24.957778,60
-SAW,Sabiha Gökçen International,Istanbul,Turkey,Asia,Western Asia,29.309167,40.898611,62
-AMS,Amsterdam Airport Schiphol,Amsterdam,Netherlands,Europe,Western Europe,4.764167,52.308056,63
-STN,London Stansted,London,United Kingdom,Europe,Northern Europe,0.235,51.885,70
+RUH,King Khalid International,Riyadh,Saudi Arabia,Asia,Western Asia,46.698889,24.957778,57
+BUD,Budapest Ferenc Liszt International,Budapest,Hungary,Europe,Central Europe,19.255556,47.436944,59
+SAW,Sabiha Gökçen International,Istanbul,Turkey,Asia,Western Asia,29.309167,40.898611,61
+DUB,Dublin,Dublin,Ireland,Europe,Northern Europe,-6.27,53.421389,62
+STN,London Stansted,London,United Kingdom,Europe,Northern Europe,0.235,51.885,67
+AMS,Amsterdam Airport Schiphol,Amsterdam,Netherlands,Europe,Western Europe,4.764167,52.308056,69
 BOM,Chhatrapati Shivaji International,Mumbai,India,Asia,Southern Asia,72.868056,19.088611,71
-VIE,Vienna International Airport,Vienna,Austria,Europe,Central Europe,16.578056,48.110278,74
+VIE,Vienna International Airport,Vienna,Austria,Europe,Central Europe,16.578056,48.110278,73
 MCT,Muscat International,Muscat,Oman,Asia,Western Asia,58.281667,23.592778,80
 MXP,Milan–Malpensa,Milan,Italy,Europe,Southern Europe,8.723056,45.63,82
-OTP,Henri Coandă International,Bucharest,Romania,Europe,Eastern Europe,26.102222,44.572222,85
-KEF,Keflavík International,Reykjavik,Iceland,Europe,Northern Europe,-22.605556,63.985,88
-BER,Berlin Brandenburg,Berlin,Germany,Europe,Central Europe,13.503333,52.366667,89
-AMM,Queen Alia International,Amman,Jordan,Asia,Western Asia,35.993333,31.7225,92
-NBO,Jomo Kenyatta International,Nairobi,Kenya,Africa,Eastern Africa,36.927778,-1.319167,94
-DOH,Hamad International,Doha,Qatar,Asia,Western Asia,51.608333,25.274444,95
-ARN,Stockholm Arlanda,Stockholm,Sweden,Europe,Northern Europe,17.918611,59.651944,97
+KEF,Keflavík International,Reykjavik,Iceland,Europe,Northern Europe,-22.605556,63.985,84
+OTP,Henri Coandă International,Bucharest,Romania,Europe,Eastern Europe,26.102222,44.572222,86
+BER,Berlin Brandenburg,Berlin,Germany,Europe,Central Europe,13.503333,52.366667,87
+AMM,Queen Alia International,Amman,Jordan,Asia,Western Asia,35.993333,31.7225,89
+DOH,Hamad International,Doha,Qatar,Asia,Western Asia,51.608333,25.274444,94
+NBO,Jomo Kenyatta International,Nairobi,Kenya,Africa,Eastern Africa,36.927778,-1.319167,95
+ARN,Stockholm Arlanda,Stockholm,Sweden,Europe,Northern Europe,17.918611,59.651944,96
 PRG,Václav Havel Airport Prague,Prague,Czechia,Europe,Central Europe,14.26,50.100833,103
 MAN,Manchester,Manchester,United Kingdom,Europe,Northern Europe,-2.275,53.353611,104
 TIA,Tirana International Airport Nënë Tereza,Tirana,Albania,Europe,Southern Europe,19.720833,41.415,108
-KWI,Kuwait International,Kuwait City,Kuwait,Asia,Western Asia,47.968889,29.226667,111
-WAW,Warsaw Chopin,Warsaw,Poland,Europe,Central Europe,20.967222,52.165833,112
-FRA,Frankfurt International Airport,Frankfurt,Germany,Europe,Central Europe,8.570556,50.033056,114
-AMD,Sardar Vallabhbhai Patel International,Ahmedabad,India,Asia,Southern Asia,72.634722,23.077222,116
-RAK,Marrakesh Menara,Marrakesh,Morocco,Africa,Northern Africa,-8.036389,31.606944,124
-MED,Prince Mohammad bin Abdulaziz,Medina,Saudi Arabia,Asia,Western Asia,39.705,24.553333,127
-OPO,Porto,Porto,Portugal,Europe,Southern Europe,-8.678056,41.235556,132
-HEL,Helsinki,Helsinki,Finland,Europe,Northern Europe,24.963333,60.317222,133
-AGP,Málaga,Málaga,Spain,Europe,Southern Europe,-4.499167,36.675,136
-MLA,Malta International,Malta,Malta,Europe,Southern Europe,14.4775,35.8575,138
-LHE,Allama Iqbal International,Lahore,Pakistan,Asia,Southern Asia,74.403611,31.521667,140
-CMN,Mohammed V International,Casablanca,Morocco,Africa,Northern Africa,-7.59,33.3675,142
-EDI,Edinburgh Airport,Edinburgh,United Kingdom,Europe,Northern Europe,-3.3725,55.95,146
-BEY,Beirut–Rafic Hariri International,Beirut,Lebanon,Asia,Western Asia,35.488333,33.820833,148
-ZRH,Zürich Airport,Zürich,Switzerland,Europe,Central Europe,8.549167,47.464722,150
-BEG,Belgrade Nikola Tesla,Belgrade,Serbia,Europe,Southern Europe,20.309167,44.818333,152
-SOF,Sofia,Sofia,Bulgaria,Europe,Eastern Europe,23.406111,42.695278,153
+KWI,Kuwait International,Kuwait City,Kuwait,Asia,Western Asia,47.968889,29.226667,110
+AMD,Sardar Vallabhbhai Patel International,Ahmedabad,India,Asia,Southern Asia,72.634722,23.077222,113
+WAW,Warsaw Chopin,Warsaw,Poland,Europe,Central Europe,20.967222,52.165833,114
+FRA,Frankfurt International Airport,Frankfurt,Germany,Europe,Central Europe,8.570556,50.033056,117
+MED,Prince Mohammad bin Abdulaziz,Medina,Saudi Arabia,Asia,Western Asia,39.705,24.553333,121
+RAK,Marrakesh Menara,Marrakesh,Morocco,Africa,Northern Africa,-8.036389,31.606944,122
+OPO,Porto,Porto,Portugal,Europe,Southern Europe,-8.678056,41.235556,126
+HEL,Helsinki,Helsinki,Finland,Europe,Northern Europe,24.963333,60.317222,132
+AGP,Málaga,Málaga,Spain,Europe,Southern Europe,-4.499167,36.675,134
+MLA,Malta International,Malta,Malta,Europe,Southern Europe,14.4775,35.8575,135
+LHE,Allama Iqbal International,Lahore,Pakistan,Asia,Southern Asia,74.403611,31.521667,139
+CMN,Mohammed V International,Casablanca,Morocco,Africa,Northern Africa,-7.59,33.3675,143
+BEY,Beirut–Rafic Hariri International,Beirut,Lebanon,Asia,Western Asia,35.488333,33.820833,144
+EDI,Edinburgh Airport,Edinburgh,United Kingdom,Europe,Northern Europe,-3.3725,55.95,149
+ZRH,Zürich Airport,Zürich,Switzerland,Europe,Central Europe,8.549167,47.464722,151
+SOF,Sofia,Sofia,Bulgaria,Europe,Eastern Europe,23.406111,42.695278,152
+BEG,Belgrade Nikola Tesla,Belgrade,Serbia,Europe,Southern Europe,20.309167,44.818333,153
 BGW,Baghdad International,Baghdad,Iraq,Asia,Western Asia,44.234444,33.2625,154
-DMM,King Fahd International,Dammam,Saudi Arabia,Asia,Western Asia,49.797778,26.471111,156
-IXD,Allahabad,Allahabad,India,Asia,Southern Asia,81.733889,25.44,157
-LOS,Murtala Muhammed International,Lagos,Nigeria,Africa,Western Africa,3.321111,6.5775,158
-AUH,Zayed International Airport,Abu Dhabi,United Arab Emirates,Asia,Western Asia,54.651111,24.433056,159
-MUC,Munich,Munich,Germany,Europe,Central Europe,11.786111,48.353889,160
-BVA,Beauvais–Tillé,Paris,France,Europe,Western Europe,2.112778,49.454444,161
-BRU,Brussels,Brussels,Belgium,Europe,Western Europe,4.484444,50.901389,164
-CRL,Brussels South Charleroi,Brussels,Belgium,Europe,Western Europe,4.453889,50.459167,165
+IXD,Allahabad,Allahabad,India,Asia,Southern Asia,81.733889,25.44,155
+BVA,Beauvais–Tillé,Paris,France,Europe,Western Europe,2.112778,49.454444,156
+DMM,King Fahd International,Dammam,Saudi Arabia,Asia,Western Asia,49.797778,26.471111,157
+MUC,Munich,Munich,Germany,Europe,Central Europe,11.786111,48.353889,159
+BRU,Brussels,Brussels,Belgium,Europe,Western Europe,4.484444,50.901389,161
+CRL,Brussels South Charleroi,Brussels,Belgium,Europe,Western Europe,4.453889,50.459167,162
+LOS,Murtala Muhammed International,Lagos,Nigeria,Africa,Western Africa,3.321111,6.5775,165
+AUH,Zayed International Airport,Abu Dhabi,United Arab Emirates,Asia,Western Asia,54.651111,24.433056,166
 ISB,Islamabad International Airport,Islamabad,Pakistan,Asia,Southern Asia,72.826754,33.55126,167
 LTN,Luton,London,United Kingdom,Europe,Northern Europe,-0.368333,51.874722,168
+OSL,"Oslo Airport, Gardermoen",Oslo,Norway,Europe,Northern Europe,11.100278,60.193889,170
 VCE,Venice Marco Polo,Venice,Italy,Europe,Southern Europe,12.351944,45.505278,171
-OSL,"Oslo Airport, Gardermoen",Oslo,Norway,Europe,Northern Europe,11.100278,60.193889,172
-EVN,Zvartnots International,Yerevan,Armenia,Asia,Western Asia,44.395833,40.147222,174
-KRK,John Paul II International Airport Kraków–Balice,Kraków,Poland,Europe,Central Europe,19.784722,50.077778,177
-ATQ,Sri Guru Ram Dass Jee International,Amritsar,India,Asia,Southern Asia,74.797222,31.709722,178
-RMO,Chișinău International,Chișinău,Moldova,Europe,Eastern Europe,28.9349,46.9352,179
-AYT,Antalya,Antalya,Turkey,Asia,Western Asia,30.800556,36.898611,183
-NAP,Naples International,Naples,Italy,Europe,Southern Europe,14.290833,40.884444,184
-EBL,Erbil International,Erbil,Iraq,Asia,Western Asia,43.963056,36.237778,187
-KHI,Jinnah International,Karachi,Pakistan,Asia,Southern Asia,67.160833,24.906667,190
-TUN,Tunis–Carthage International,Tunis,Tunisia,Africa,Northern Africa,10.227222,36.851111,192
-KBL,Hamid Karzai International,Kabul,Afghanistan,Asia,Southern Asia,69.2125,34.565833,193
+EVN,Zvartnots International,Yerevan,Armenia,Asia,Western Asia,44.395833,40.147222,173
+ATQ,Sri Guru Ram Dass Jee International,Amritsar,India,Asia,Southern Asia,74.797222,31.709722,175
+RMO,Chișinău International,Chișinău,Moldova,Europe,Eastern Europe,28.9349,46.9352,178
+KRK,John Paul II International Airport Kraków–Balice,Kraków,Poland,Europe,Central Europe,19.784722,50.077778,179
+NAP,Naples International,Naples,Italy,Europe,Southern Europe,14.290833,40.884444,180
+AYT,Antalya,Antalya,Turkey,Asia,Western Asia,30.800556,36.898611,181
+EBL,Erbil International,Erbil,Iraq,Asia,Western Asia,43.963056,36.237778,186
+TUN,Tunis–Carthage International,Tunis,Tunisia,Africa,Northern Africa,10.227222,36.851111,187
+KBL,Hamid Karzai International,Kabul,Afghanistan,Asia,Southern Asia,69.2125,34.565833,190
 LCA,Larnaca International,Larnaca,Cyprus,Europe,Southern Europe,33.624722,34.875,194
-NCE,Nice Côte d Azur International,Nice,France,Europe,Western Europe,7.215,43.665278,196
-SVQ,Seville,Seville,Spain,Europe,Southern Europe,-5.893056,37.418056,197
-BGY,Milan Bergamo International Airport,Milan,Italy,Europe,Southern Europe,9.700278,45.668889,198
-VNO,Vilnius,Vilnius,Lithuania,Europe,Northern Europe,25.285833,54.634167,201
-ALC,Alicante–Elche,Alicante,Spain,Europe,Southern Europe,-0.558056,38.282222,203
-FLR,Florence,Florence,Italy,Europe,Southern Europe,11.202778,43.808611,204
-PMO,Falcone–Borsellino,Palermo,Italy,Europe,Southern Europe,13.099444,38.181944,205
+KHI,Jinnah International,Karachi,Pakistan,Asia,Southern Asia,67.160833,24.906667,195
+ALC,Alicante–Elche,Alicante,Spain,Europe,Southern Europe,-0.558056,38.282222,198
+FLR,Florence,Florence,Italy,Europe,Southern Europe,11.202778,43.808611,199
+BGY,Milan Bergamo International Airport,Milan,Italy,Europe,Southern Europe,9.700278,45.668889,200
+GVA,Geneva,Geneva,Switzerland,Europe,Central Europe,6.108889,46.238056,201
+PMI,Palma de Mallorca,"Palma, Majorca",Spain,Europe,Southern Europe,2.738889,39.551667,202
+NCE,Nice Côte d Azur International,Nice,France,Europe,Western Europe,7.215,43.665278,203
+SVQ,Seville,Seville,Spain,Europe,Southern Europe,-5.893056,37.418056,204
+VNO,Vilnius,Vilnius,Lithuania,Europe,Northern Europe,25.285833,54.634167,205
 TBS,Tbilisi International,Tbilisi,Georgia,Asia,Western Asia,44.954722,41.669167,206
-GVA,Geneva,Geneva,Switzerland,Europe,Central Europe,6.108889,46.238056,207
-GYD,Heydar Aliyev International,Baku,Azerbaijan,Asia,Western Asia,50.046667,40.4675,208
-VLC,Valencia,Valencia,Spain,Europe,Southern Europe,-0.481667,39.489444,209
-PMI,Palma de Mallorca,"Palma, Majorca",Spain,Europe,Southern Europe,2.738889,39.551667,211
-ZAG,Zagreb,Zagreb,Croatia,Europe,Southern Europe,16.068889,45.743056,216
-BAH,Bahrain International,Manama,Bahrain,Asia,Western Asia,50.633611,26.270833,217
-FNC,Cristiano Ronaldo International,Funchal,Portugal,Europe,Southern Europe,-16.778056,32.694167,218
-CTA,Catania–Fontanarossa,Catania,Italy,Europe,Southern Europe,15.063889,37.466667,225
-HAM,Hamburg,Hamburg,Germany,Europe,Central Europe,9.988333,53.630278,228
-ALG,Houari Boumediene,Algiers,Algeria,Africa,Northern Africa,3.214722,36.694167,231
-TFS,Tenerife–South,Tenerife,Spain,Europe,Southern Europe,-16.5725,28.044444,235
+VLC,Valencia,Valencia,Spain,Europe,Southern Europe,-0.481667,39.489444,207
+PMO,Falcone–Borsellino,Palermo,Italy,Europe,Southern Europe,13.099444,38.181944,208
+GYD,Heydar Aliyev International,Baku,Azerbaijan,Asia,Western Asia,50.046667,40.4675,209
+BAH,Bahrain International,Manama,Bahrain,Asia,Western Asia,50.633611,26.270833,211
+ZAG,Zagreb,Zagreb,Croatia,Europe,Southern Europe,16.068889,45.743056,220
+CTA,Catania–Fontanarossa,Catania,Italy,Europe,Southern Europe,15.063889,37.466667,222
+FNC,Cristiano Ronaldo International,Funchal,Portugal,Europe,Southern Europe,-16.778056,32.694167,225
+HAM,Hamburg,Hamburg,Germany,Europe,Central Europe,9.988333,53.630278,227
+ALG,Houari Boumediene,Algiers,Algeria,Africa,Northern Africa,3.214722,36.694167,229
+HRG,Hurghada International,Hurghada,Egypt,Africa,Northern Africa,33.801389,27.178611,234
 DUS,Düsseldorf International Airport,Düsseldorf,Germany,Europe,Central Europe,6.766667,51.289444,236
-HRG,Hurghada International,Hurghada,Egypt,Africa,Northern Africa,33.801389,27.178611,241
-JTR,Santorini (Thira) National,Santorini,Greece,Europe,Southern Europe,25.479444,36.399167,242
-ACC,Kotoka International,Accra,Ghana,Africa,Western Africa,-0.166667,5.605278,244
+TFS,Tenerife–South,Tenerife,Spain,Europe,Southern Europe,-16.5725,28.044444,238
+JTR,Santorini (Thira) National,Santorini,Greece,Europe,Southern Europe,25.479444,36.399167,239
+TAS,Tashkent International,Tashkent,Uzbekistan,Asia,Central Asia,69.281111,41.257778,246
+SHJ,Sharjah International,Dubai,United Arab Emirates,Asia,Western Asia,55.517222,25.328611,247
 RIX,Riga International,Riga,Latvia,Europe,Northern Europe,23.971111,56.923611,249
-SHJ,Sharjah International,Dubai,United Arab Emirates,Asia,Western Asia,55.517222,25.328611,253
-LPA,Gran Canaria,Las Palmas,Spain,Europe,Southern Europe,-15.386667,27.931944,255
-TAS,Tashkent International,Tashkent,Uzbekistan,Asia,Central Asia,69.281111,41.257778,256
-BHX,Birmingham,Birmingham,United Kingdom,Europe,Northern Europe,-1.747778,52.453611,259
-TNG,Tangier Ibn Battouta,Tangier,Morocco,Africa,Northern Africa,-5.916944,35.726944,262
+ACC,Kotoka International,Accra,Ghana,Africa,Western Africa,-0.166667,5.605278,252
+BHX,Birmingham,Birmingham,United Kingdom,Europe,Northern Europe,-1.747778,52.453611,256
+LPA,Gran Canaria,Las Palmas,Spain,Europe,Southern Europe,-15.386667,27.931944,257
+TNG,Tangier Ibn Battouta,Tangier,Morocco,Africa,Northern Africa,-5.916944,35.726944,264
 IKA,Tehran Imam Khomeini International,Tehran,Iran,Asia,Southern Asia,51.152222,35.416111,265
-ADD,Addis Ababa Bole International,Addis Ababa,Ethiopia,Africa,Eastern Africa,38.799444,8.977778,269
-ESB,Esenboğa International,Ankara,Turkey,Asia,Western Asia,32.995,40.128056,270
-ABV,Nnamdi Azikiwe International,Abuja,Nigeria,Africa,Western Africa,7.263056,9.006667,275
-FAO,Faro,Faro,Portugal,Europe,Southern Europe,-7.965833,37.014444,277
-MRS,Marseille Provence,Marseille,France,Europe,Western Europe,5.215,43.436667,278
-SPU,Split,Split,Croatia,Europe,Southern Europe,16.298056,43.538889,280
-LKO,Chaudhary Charan Singh International,Lucknow,India,Asia,Southern Asia,80.889444,26.760556,281
-TLL,Tallinn,Tallinn,Estonia,Europe,Northern Europe,24.8325,59.413333,289
-SKG,Thessaloniki International Airport Macedonia,Thessaloniki,Greece,Europe,Southern Europe,22.970833,40.519722,291
+ESB,Esenboğa International,Ankara,Turkey,Asia,Western Asia,32.995,40.128056,266
+ADD,Addis Ababa Bole International,Addis Ababa,Ethiopia,Africa,Eastern Africa,38.799444,8.977778,270
+LKO,Chaudhary Charan Singh International,Lucknow,India,Asia,Southern Asia,80.889444,26.760556,272
+FAO,Faro,Faro,Portugal,Europe,Southern Europe,-7.965833,37.014444,274
+SPU,Split,Split,Croatia,Europe,Southern Europe,16.298056,43.538889,275
+MRS,Marseille Provence,Marseille,France,Europe,Western Europe,5.215,43.436667,279
+TLL,Tallinn,Tallinn,Estonia,Europe,Northern Europe,24.8325,59.413333,282
+SKG,Thessaloniki International Airport Macedonia,Thessaloniki,Greece,Europe,Southern Europe,22.970833,40.519722,287
+ABV,Nnamdi Azikiwe International,Abuja,Nigeria,Africa,Western Africa,7.263056,9.006667,288
+PRN,Pristina International,Pristina,Kosovo,Europe,Southern Europe,21.035833,42.572778,291
+LYS,Lyon–Saint-Exupéry,Lyon,France,Europe,Western Europe,5.081111,45.725556,292
 AGA,Agadir–Al Massira,Agadir,Morocco,Africa,Northern Africa,-9.413056,30.325,295
-LYS,Lyon–Saint-Exupéry,Lyon,France,Europe,Western Europe,5.081111,45.725556,296
-PRN,Pristina International,Pristina,Kosovo,Europe,Southern Europe,21.035833,42.572778,297
-BRI,Bari Karol Wojtyła,Bari,Italy,Europe,Southern Europe,16.765,41.138056,300
-CIA,Ciampino–G. B. Pastine International,Rome,Italy,Europe,Southern Europe,12.595,41.798889,303
+CIA,Ciampino–G. B. Pastine International,Rome,Italy,Europe,Southern Europe,12.595,41.798889,299
+BRI,Bari Karol Wojtyła,Bari,Italy,Europe,Southern Europe,16.765,41.138056,303
 CAG,Cagliari Elmas,Cagliari,Italy,Europe,Southern Europe,9.057778,39.251389,305
+ADB,Adnan Menderes,İzmir,Turkey,Asia,Western Asia,27.156944,38.2925,307
+BLQ,Bologna Guglielmo Marconi,Bologna,Italy,Europe,Southern Europe,11.296944,44.530833,308
 DBV,Dubrovnik,Dubrovnik,Croatia,Europe,Southern Europe,18.268333,42.561389,309
-ECN,Ercan International,Northern Cyprus,Unknown Region,Asia,Western Asia,33.488333,35.159722,310
-BLQ,Bologna Guglielmo Marconi,Bologna,Italy,Europe,Southern Europe,11.296944,44.530833,315
-ADB,Adnan Menderes,İzmir,Turkey,Asia,Western Asia,27.156944,38.2925,316
-STR,Stuttgart,Stuttgart,Germany,Europe,Central Europe,9.221944,48.69,331
-ALA,Almaty International,Almaty,Kazakhstan,Asia,Central Asia,77.042222,43.353333,333
-DAM,Damascus International,Damascus,Syria,Asia,Southern Asia,36.514167,33.410556,337
+ECN,Ercan International,Northern Cyprus,Unknown Region,Asia,Western Asia,33.488333,35.159722,312
+DAM,Damascus International,Damascus,Syria,Asia,Southern Asia,36.514167,33.410556,316
+BIO,Bilbao,Bilbao,Spain,Europe,Southern Europe,-2.910556,43.301111,321
+STR,Stuttgart,Stuttgart,Germany,Europe,Central Europe,9.221944,48.69,323
+SKP,Skopje Alexander the Great,Skopje,Republic of North Macedonia,Europe,Southern Europe,21.621389,41.961667,324
+TSF,Treviso,Venice,Italy,Europe,Southern Europe,12.197778,45.650833,331
+ALA,Almaty International,Almaty,Kazakhstan,Asia,Central Asia,77.042222,43.353333,335
 CGN,Cologne Bonn Airport,Cologne,Germany,Europe,Central Europe,7.142778,50.865833,338
-GDN,Gdańsk Lech Wałęsa,Gdańsk,Poland,Europe,Central Europe,18.466111,54.3775,340
-SSH,Sharm el-Sheikh International,Sharm El Sheikh,Egypt,Africa,Northern Africa,34.395,27.977222,341
-SKP,Skopje Alexander the Great,Skopje,Republic of North Macedonia,Europe,Southern Europe,21.621389,41.961667,343
-BIO,Bilbao,Bilbao,Spain,Europe,Southern Europe,-2.910556,43.301111,344
-RBA,Rabat–Salé,Rabat,Morocco,Africa,Northern Africa,-6.751389,34.051389,345
-TSF,Treviso,Venice,Italy,Europe,Southern Europe,12.197778,45.650833,348
-PDL,João Paulo II,Ponta Delgada,Portugal,Europe,Southern Europe,-25.697778,37.741111,350
-IBZ,Ibiza,Ibiza,Spain,Europe,Southern Europe,1.373056,38.872778,355
-FRU,Manas International,Bishkek,Kyrgyzstan,Asia,Central Asia,74.4775,43.061389,357
-WMI,Warsaw Modlin,Warsaw,Poland,Europe,Central Europe,20.651667,52.451111,358
-HHN,Frankfurt–Hahn,Frankfurt,Germany,Europe,Central Europe,7.263889,49.948611,359
-CLJ,Cluj International,Cluj-Napoca,Romania,Europe,Eastern Europe,23.686111,46.785278,361
-TOS,"Tromsø Airport, Langnes",Tromsø,Norway,Europe,Northern Europe,18.918889,69.683333,362
-EBB,Entebbe International,Entebbe,Uganda,Africa,Eastern Africa,32.443611,0.0425,363
-TGD,Podgorica,Podgorica,Montenegro,Europe,Southern Europe,19.251944,42.359444,364
-EIN,Eindhoven,Eindhoven,Netherlands,Europe,Western Europe,5.374444,51.45,367
-HBE,Borg El Arab,Alexandria,Egypt,Africa,Northern Africa,29.696389,30.917778,371
-HER,Heraklion International,Heraklion,Greece,Europe,Southern Europe,25.180278,35.339722,375
-DSS,Blaise Diagne International Airport,Dakar,Senegal,Africa,Western Africa,-17.066944,14.671111,382
-SJJ,Sarajevo International,Sarajevo,Bosnia & Herzegovina,Europe,Southern Europe,18.331389,43.824722,383
-SPX,Sphinx International Airport,Giza,Egypt,Africa,Northern Africa,30.894444,30.109722,388
-CHQ,Chania International,Chania,Greece,Europe,Southern Europe,24.149722,35.531667,389
-BGO,"Bergen Airport, Flesland",Bergen,Norway,Europe,Northern Europe,5.218056,60.293333,392
-PSA,Pisa International,Pisa,Italy,Europe,Southern Europe,10.395556,43.682778,397
-BRS,Bristol,Bristol,United Kingdom,Europe,Northern Europe,-2.718889,51.3825,400
-GLA,Glasgow,Glasgow,United Kingdom,Europe,Northern Europe,-4.433333,55.871944,405
-LUX,Luxembourg,Luxembourg,Luxembourg,Europe,Western Europe,6.204444,49.623333,406
-TFN,Tenerife-North,Tenerife,Spain,Europe,Southern Europe,-16.341667,28.482778,412
-BJL,Banjul International,Banjul,Gambia,Africa,Western Africa,-16.652222,13.338056,414
-TLS,Toulouse–Blagnac,Toulouse,France,Europe,Western Europe,1.367778,43.635,416
-BSL,EuroAirport Basel Mulhouse Freiburg,Basel,Switzerland,Europe,Central Europe,7.521667,47.601111,418
-GOT,Göteborg Landvetter,Gothenburg,Sweden,Europe,Northern Europe,12.279722,57.662778,421
-KUT,David the Builder Kutaisi International,Kutaisi,Georgia,Asia,Western Asia,42.4825,42.176667,422
-PFO,Paphos International,Paphos,Cyprus,Europe,Southern Europe,32.485833,34.718056,423
-PNQ,Pune,Pune,India,Asia,Southern Asia,73.919722,18.582222,425
-FEZ,Fès–Saïs,Fes,Morocco,Africa,Northern Africa,-4.978056,33.927222,428
-ASR,Erkilet International,Kayseri,Turkey,Asia,Western Asia,35.495556,38.770278,429
-DYU,Dushanbe International,Dushanbe,Tajikistan,Asia,Central Asia,68.825,38.543333,430
-BDQ,Vadodara,Vadodara,India,Asia,Southern Asia,73.226389,22.336111,432
-LIN,Linate,Milan,Italy,Europe,Southern Europe,9.278333,45.449444,436
-OLB,Olbia Costa Smeralda,Olbia,Italy,Europe,Southern Europe,9.517778,40.898611,441
-CFU,Corfu International,Corfu,Greece,Europe,Southern Europe,19.911667,39.601944,445
-JMK,Mykonos Island National,Mykonos,Greece,Europe,Southern Europe,25.348056,37.435,451
-BOD,Bordeaux–Mérignac,Bordeaux,France,Europe,Western Europe,-0.715278,44.828611,455
-WRO,Copernicus Airport Wrocław,Wrocław,Poland,Europe,Central Europe,16.885833,51.102778,457
-IAS,Iași International,Iași,Romania,Europe,Eastern Europe,27.620556,47.178611,463
-DWC,Al Maktoum International,Dubai,United Arab Emirates,Asia,Western Asia,55.16,24.896111,466
-SCQ,Santiago de Compostela,Santiago de Compostela,Spain,Europe,Southern Europe,-8.415278,42.896389,472
-JAI,Jaipur International,Jaipur,India,Asia,Southern Asia,75.812222,26.824167,474
-NTE,Nantes Atlantique,Nantes,France,Europe,Western Europe,-1.607778,47.156944,478
-FUE,Fuerteventura,Fuerteventura,Spain,Europe,Southern Europe,-13.863889,28.452778,481
-PEW,Bacha Khan International,Peshawar,Pakistan,Asia,Southern Asia,71.514444,33.993889,484
-FMM,Memmingen,Memmingen,Germany,Europe,Central Europe,10.2375,47.988056,485
-KUN,Kaunas,Kaunas,Lithuania,Europe,Northern Europe,24.084722,54.963889,486
-NUE,Nuremberg,Nuremberg,Germany,Europe,Central Europe,11.066944,49.498611,487
-SLL,Salalah,Salalah,Oman,Asia,Western Asia,54.091389,17.038611,491
-LJU,Ljubljana Jože Pučnik,Ljubljana,Slovenia,Europe,Southern Europe,14.4575,46.223611,493
-NCL,Newcastle,Newcastle upon Tyne,United Kingdom,Europe,Northern Europe,-1.691667,55.0375,494
-ACE,Lanzarote,Lanzarote,Spain,Europe,Southern Europe,-13.605278,28.945556,495
-IXC,Chandigarh International,Chandigarh,India,Asia,Southern Asia,76.788611,30.673333,497
-FIH,N djili,Kinshasa,Democratic Republic of the Congo,Africa,Central Africa,15.444444,-4.385833,503
-MGQ,Aden Adde International,Mogadishu,Somalia,Africa,Eastern Africa,45.305,2.014722,506
-TRF,"Sandefjord Airport, Torp",Oslo,Norway,Europe,Northern Europe,10.258611,59.186667,508
-BLL,Billund,Billund,Denmark,Europe,Northern Europe,9.151667,55.740278,509
-ORK,Cork,Cork,Ireland,Europe,Northern Europe,-8.491111,51.841389,510
-TRN,Turin,Turin,Italy,Europe,Southern Europe,7.649444,45.2025,517
-GRX,Federico García Lorca,Granada,Spain,Europe,Southern Europe,-3.777222,37.188611,523
-BTS,Bratislava Airport,Bratislava,Slovakia,Europe,Central Europe,17.212778,48.170278,524
-LPL,Liverpool John Lennon,Liverpool,United Kingdom,Europe,Northern Europe,-2.849722,53.333611,526
-BFS,Belfast International,Belfast,United Kingdom,Europe,Northern Europe,-6.215833,54.6575,527
-SKT,Sialkot International,Sialkot,Pakistan,Asia,Southern Asia,74.363889,32.535278,528
-ASM,Asmara International,Asmara,Eritrea,Africa,Eastern Africa,38.910556,15.291944,532
-POZ,Poznań–Ławica,Poznań,Poland,Europe,Central Europe,16.826389,52.421111,533
-BDS,Brindisi,Brindisi,Italy,Europe,Southern Europe,17.948056,40.660556,535
-ROB,Roberts International,Monrovia,Liberia,Africa,Western Africa,-10.362222,6.233889,537
-RVN,Rovaniemi,Rovaniemi,Finland,Europe,Northern Europe,25.830278,66.564722,538
-KGL,Kigali International,Kigali,Rwanda,Africa,Eastern Africa,30.139444,-1.968611,539
-DTM,Dortmund,Dortmund,Germany,Europe,Central Europe,7.612222,51.518333,542
-TSR,Timișoara Traian Vuia International,Timișoara,Romania,Europe,Eastern Europe,21.337778,45.81,545
-NQZ,Nursultan Nazarbayev International Airport,Astana,Kazakhstan,Asia,Central Asia,71.466944,51.023056,547
-LYP,Faisalabad International,Faisalabad District,Pakistan,Asia,Southern Asia,72.994722,31.365,549
-COV,Cukurova International Airport,Mersin,Turkey,Asia,Western Asia,35.0675,36.896944,551
-PHC,Port Harcourt International,Port Harcourt,Nigeria,Africa,Western Africa,6.949722,5.015556,553
-ABJ,Port Bouet,Abidjan,Côte d’Ivoire,Africa,Western Africa,-3.926389,5.261389,558
-VRN,Verona Villafranca,Verona,Italy,Europe,Southern Europe,10.888056,45.396389,559
-VAR,Varna,Varna,Bulgaria,Europe,Eastern Europe,27.825,43.231944,565
-HAJ,Hannover,Hanover,Germany,Europe,Central Europe,9.689444,52.460556,567
-NRN,Weeze,Düsseldorf,Germany,Europe,Central Europe,6.142222,51.6025,568
-TUU,Tabuk Regional,Tabuk,Saudi Arabia,Asia,Western Asia,36.618889,28.365556,571
-JRO,Kilimanjaro International,Mount Kilimanjaro,Tanzania,Africa,Eastern Africa,37.074444,-3.429444,575
-DLA,Douala International,Douala,Cameroon,Africa,Central Africa,9.719444,4.006111,577
-RAI,Nelson Mandela International,Praia,Cape Verde,Africa,Western Africa,-23.484722,14.941389,579
-STV,Surat,Surat,India,Asia,Southern Asia,72.741667,21.114167,585
-MUX,Multan International,Multan,Pakistan,Asia,Southern Asia,71.419167,30.203333,586
-AHB,Abha Regional,Abha,Saudi Arabia,Asia,Western Asia,42.656667,18.240278,587
-LCY,London City,London,United Kingdom,Europe,Northern Europe,0.054167,51.505,590
-KTW,Katowice International,Katowice,Poland,Europe,Central Europe,19.08,50.474167,592
-SNN,Shannon,"Shannon, County Clare",Ireland,Europe,Northern Europe,-8.924722,52.701944,594
-TIV,Tivat,Tivat,Montenegro,Europe,Southern Europe,18.723333,42.404722,595
-BOJ,Burgas,Burgas,Bulgaria,Europe,Eastern Europe,27.515278,42.569722,597
-RHO,Rhodes International,Rhodes,Greece,Europe,Southern Europe,28.086111,36.405556,599
-BHD,George Best Belfast City,Belfast,United Kingdom,Europe,Northern Europe,-5.8725,54.618056,600
-KIS,Kisumu International,Kisumu,Kenya,Africa,Eastern Africa,34.729722,-0.085556,601
-TZX,Trabzon,Trabzon,Turkey,Asia,Western Asia,39.789722,40.995,602
-UDR,Maharana Pratap,Udaipur,India,Asia,Southern Asia,73.896111,24.617778,608
-NKC,Nouakchott International,Nouakchott,Mauritania,Africa,Western Africa,-15.948056,18.097778,610
-SXR,Srinagar International,Srinagar,India,Asia,Southern Asia,74.774167,33.987222,613
-LXR,Luxor International,Luxor,Egypt,Africa,Northern Africa,32.706667,25.671111,614
-ORN,Oran Es Sénia,Oran,Algeria,Africa,Northern Africa,-0.621111,35.623889,615
-NAV,Nevşehir Kapadokya,Nevşehir,Turkey,Asia,Western Asia,34.534444,38.771944,616
-GZT,Oğuzeli,Gaziantep,Turkey,Asia,Western Asia,37.478611,36.947222,621
-MYD,Malindi,Malindi,Kenya,Africa,Eastern Africa,40.101667,-3.229167,625
-LBA,Leeds Bradford,Leeds,United Kingdom,Europe,Northern Europe,-1.660556,53.865833,627
-SZG,Salzburg,Salzburg,Austria,Europe,Central Europe,13.004444,47.793333,628
-DJE,Djerba–Zarzis International,Djerba,Tunisia,Africa,Northern Africa,10.775556,33.875,632
-IDR,Devi Ahilya Bai Holkar,Indore,India,Asia,Southern Asia,75.801111,22.721667,634
-DED,Dehradun,Dehradun,India,Asia,Southern Asia,78.180278,30.189722,639
-DLM,Dalaman,Dalaman,Turkey,Asia,Western Asia,28.7925,36.713056,641
-NSI,Yaoundé Nsimalen International,Yaoundé,Cameroon,Africa,Central Africa,11.553333,3.7225,643
-CKY,Conakry International,Conakry,Guinea,Africa,Western Africa,-13.611944,9.576944,645
-KAN,Mallam Aminu Kano International,Kano,Nigeria,Africa,Western Africa,8.524722,12.0475,649
-GIZ,Jazan,Jizan,Saudi Arabia,Asia,Western Asia,42.585833,16.901111,651
-ELQ,Prince Nayef bin Abdulaziz Regional,Al-Qassim Region,Saudi Arabia,Asia,Western Asia,43.773889,26.302778,657
-TRD,"Trondheim Airport, Værnes",Trondheim,Norway,Europe,Northern Europe,10.924167,63.4575,661
-ZAD,Zadar,Zadar,Croatia,Europe,Southern Europe,15.346667,44.108333,663
-SID,Amílcar Cabral International,Sal,Cape Verde,Africa,Western Africa,-22.949444,16.741389,664
-BRE,Bremen,Bremen,Germany,Europe,Central Europe,8.786667,53.0475,668
-EMA,East Midlands,Nottingham,United Kingdom,Europe,Northern Europe,-1.328056,52.831111,669
-HSR,Rajkot International Airport,Rajkot,India,Asia,Southern Asia,71.028333,22.388056,672
-ASW,Aswan International,Aswan,Egypt,Africa,Northern Africa,32.82,23.964444,674
-ASB,Ashgabat International,Ashgabat,Turkmenistan,Asia,Central Asia,58.360833,37.986944,677
-MAH,Menorca,Menorca,Spain,Europe,Southern Europe,4.218611,39.8625,679
-JNX,Naxos Island National,Naxos,Greece,Europe,Southern Europe,25.368611,37.082222,680
-SUF,Lamezia Terme International,Lamezia Terme,Italy,Europe,Southern Europe,16.241667,38.908333,681
-MPL,Montpellier–Méditerranée,Montpellier,France,Europe,Western Europe,3.961389,43.583333,683
-TRS,Trieste – Friuli Venezia Giulia,Trieste,Italy,Europe,Southern Europe,13.472222,45.8275,684
-MHD,Mashhad International,Mashhad,Iran,Asia,Southern Asia,59.645,36.234167,685
-OVD,Asturias,Asturias,Spain,Europe,Southern Europe,-6.034722,43.563611,686
-ETM,Ramon Airport,Eilat,Israel,Asia,Western Asia,35.011417,29.723694,690
-BNI,Benin,Benin City,Nigeria,Africa,Western Africa,5.599444,6.316944,691
-BKO,Bamako–Sénou International,Bamako,Mali,Africa,Western Africa,-7.95,12.533611,693
-BJV,Milas–Bodrum,Bodrum,Turkey,Asia,Western Asia,27.664444,37.250556,694
-ZTH,Zakynthos International,Zakynthos Island,Greece,Europe,Southern Europe,20.884167,37.750833,704
-SVG,"Stavanger Airport, Sola",Stavanger,Norway,Europe,Northern Europe,5.637778,58.876667,705
-BUS,Batumi International,Batumi,Georgia,Asia,Western Asia,41.599722,41.610278,708
-GOP,Mahayogi Gorakhnath,Gorakhpur,India,Asia,Southern Asia,83.45,26.741111,709
-MJI,Mitiga International,Tripoli,Libya,Africa,Northern Africa,13.289722,32.893333,710
-YYT,St. John's International,St. John s,Canada,North America,Northern America,-52.751944,47.618611,714
-JIB,Djibouti–Ambouli International,Balbala,Djibouti,Africa,Eastern Africa,43.159444,11.547222,716
-SKD,Samarkand International,Samarkand,Uzbekistan,Asia,Central Asia,66.984722,39.700556,721
-CZL,Mohamed Boudiaf International,Constantine,Algeria,Africa,Northern Africa,6.620278,36.276111,722
-AAL,Aalborg,Aalborg,Denmark,Europe,Northern Europe,9.849167,57.092778,724
-AHO,Alghero-Fertilia,Alghero,Italy,Europe,Southern Europe,8.289722,40.630278,725
-LCG,A Coruña,A Coruña,Spain,Europe,Southern Europe,-8.377222,43.302222,726
-RZE,Rzeszów–Jasionka,Rzeszów,Poland,Europe,Central Europe,22.018889,50.11,731
-LDE,Tarbes–Lourdes–Pyrénées,Lourdes,France,Europe,Western Europe,-0.002778,43.185556,740
-SOU,Southampton,Southampton,United Kingdom,Europe,Northern Europe,-1.356667,50.950278,742
-EDL,Eldoret International,Eldoret,Kenya,Africa,Eastern Africa,35.238889,0.404722,747
-TER,Lajes Field,Terceira Island,Portugal,Europe,Southern Europe,-27.090833,38.761944,748
-GOH,Nuuk,Nuuk,Greenland,North America,Northern America,-51.678056,64.190833,749
-SPC,La Palma,Santa Cruz de La Palma,Spain,Europe,Southern Europe,-17.755556,28.626389,752
-ENU,Akanu Ibiam International,Enugu,Nigeria,Africa,Western Africa,7.561944,6.474167,754
-EAS,San Sebastián,Donostia / San Sebastián,Spain,Europe,Southern Europe,-1.790556,43.356389,765
-ABZ,Aberdeen,Aberdeen,United Kingdom,Europe,Northern Europe,-2.200278,57.204167,771
-NDR,Nador International,Nador,Morocco,Africa,Northern Africa,-3.028333,34.988889,772
-BIQ,Biarritz Pays Basque,Biarritz,France,Europe,Western Europe,-1.531111,43.468333,773
-AOI,Marche Airport,Ancona,Italy,Europe,Southern Europe,13.360278,43.616667,775
-IXJ,Jammu,Jammu,Unknown Region,Asia,Southern Asia,74.8375,32.689167,781
-RTM,Rotterdam The Hague,Rotterdam,Netherlands,Europe,Western Europe,4.430833,51.953056,785
-OUD,Angads,Oujda,Morocco,Africa,Northern Africa,-1.923889,34.787222,787
-SYZ,Shiraz International,Shiraz,Iran,Asia,Southern Asia,52.588611,29.540278,790
-LEJ,Leipzig/Halle Airport,Leipzig,Germany,Europe,Central Europe,12.241667,51.4325,792
-JSI,Skiathos Island National,Skiathos,Greece,Europe,Southern Europe,23.503611,39.177222,793
-ABB,Asaba International,Asaba,Nigeria,Africa,Western Africa,6.667222,6.203056,795
-KSC,Košice International,Košice,Slovakia,Europe,Central Europe,21.241111,48.663056,797
-QOW,Sam Mbakwe,Owerri,Nigeria,Africa,Western Africa,7.206111,5.426944,799
-PAS,Paros National,Parikia,Greece,Europe,Southern Europe,25.128611,37.010278,802
-MIR,Monastir Habib Bourguiba International,Monastir,Tunisia,Africa,Northern Africa,10.754722,35.758056,803
-INV,Inverness,Inverness,United Kingdom,Europe,Northern Europe,-4.05,57.54,807
-HGA,Hargeisa,Hargeisa,Somalia,Africa,Eastern Africa,44.083889,9.513889,808
-SDR,Santander,Santander,Spain,Europe,Southern Europe,-3.82,43.426944,813
-XRY,Jerez,Jerez de la Frontera,Spain,Europe,Southern Europe,-6.06,36.744722,819
-ARK,Arusha,Arusha,Tanzania,Africa,Eastern Africa,36.625,-3.367222,820
-LUZ,Lublin,Lublin,Poland,Europe,Central Europe,22.690556,51.231389,825
-INN,Innsbruck,Innsbruck,Austria,Europe,Central Europe,11.343889,47.260278,826
-PZU,Port Sudan New International,Port,Sudan,Africa,Northern Africa,37.234167,19.433611,831
-BHO,Raja Bhoj,Bhopal,India,Asia,Southern Asia,77.3375,23.2875,840
-EFL,Kephalonia International,Cephalonia,Greece,Europe,Southern Europe,20.500556,38.12,848
-MLO,Milos Island National,"Plaka, Milos",Greece,Europe,Southern Europe,24.472778,36.696667,850
-SCV,Suceava International,Suceava,Romania,Europe,Eastern Europe,26.354167,47.6875,854
-EVE,"Harstad/Narvik Airport, Evenes",Narvik,Norway,Europe,Northern Europe,16.678056,68.491389,856
-AAR,Aarhus,Aarhus,Denmark,Europe,Northern Europe,10.619444,56.303889,857
-RMF,Marsa Alam International,Marsa Alam,Egypt,Africa,Northern Africa,34.583611,25.557222,859
-KGS,Kos Island International,Kos,Greece,Europe,Southern Europe,27.091667,36.793333,861
-BJM,Bujumbura International,Bujumbura,Burundi,Africa,Eastern Africa,29.318611,-3.323889,862
-SXB,Strasbourg,Strasbourg,France,Europe,Western Europe,7.634444,48.541944,863
-ALF,Alta,Alta,Norway,Europe,Northern Europe,23.371667,69.976111,864
-FAE,Vágar,Sørvágur,Faroe Islands,Europe,Northern Europe,-7.293056,62.066389,866
-JKH,Chios Island National,Chios,Greece,Europe,Southern Europe,26.140556,38.343056,869
-GRO,Girona–Costa Brava,Girona,Spain,Europe,Southern Europe,2.760556,41.900833,877
-NJF,Al Najaf International,Najaf,Iraq,Asia,Western Asia,44.404167,31.989722,881
-LFW,Lomé–Tokoin International,Lomé,Togo,Africa,Western Africa,1.254444,6.165556,883
-PLQ,Palanga International,Palanga,Lithuania,Europe,Northern Europe,21.093889,55.973333,884
-SBZ,Sibiu International,Sibiu,Romania,Europe,Eastern Europe,24.091389,45.785556,889
-TTU,Sania Ramel,Tétouan,Morocco,Africa,Northern Africa,-5.328056,35.59,893
-FNA,Lungi International,Freetown,Sierra Leone,Africa,Western Africa,-13.195556,8.616389,895
-AJF,Al-Jawf Domestic,Al Jawf Region,Saudi Arabia,Asia,Western Asia,40.1,29.785,896
-LLA,Luleå,Luleå,Sweden,Europe,Northern Europe,22.121944,65.543889,898
-INI,Niš Constantine the Great,Niš,Serbia,Europe,Southern Europe,21.853611,43.337222,900
-TIF,Ta if Regional,Ta if,Saudi Arabia,Asia,Western Asia,40.544444,21.483333,903
-BWA,Gautam Buddha,Siddharthanagar,Nepal,Asia,Southern Asia,83.416389,27.505833,904
-GOA,Genoa Cristoforo Colombo,Genoa,Italy,Europe,Southern Europe,8.8375,44.413333,905
-AJA,Ajaccio Napoleon Bonaparte,Ajaccio,France,Europe,Western Europe,8.8025,41.923889,906
-BOO,Bodø,Bodø,Norway,Europe,Northern Europe,14.365278,67.269167,908
-LEI,Almería,Almería,Spain,Europe,Southern Europe,-2.37,36.843889,909
-HMB,Sohag International,Sohag,Egypt,Africa,Northern Africa,31.742778,26.342778,910
-LIL,Lille,Lille,France,Europe,Western Europe,3.086944,50.563333,913
-PUY,Pula,Pula,Croatia,Europe,Southern Europe,13.922222,44.893611,915
-HAS,Ha il Regional,Ha il,Saudi Arabia,Asia,Western Asia,41.686389,27.438056,917
-VGO,Vigo–Peinador,Vigo,Spain,Europe,Southern Europe,-8.626667,42.231667,919
-DHM,Dharamsala airport,Dharamshala,India,Asia,Southern Asia,76.260556,32.165278,922
-KIR,Kerry,County Kerry,Ireland,Europe,Northern Europe,-9.523889,52.180833,923
-OMR,Oradea International,Oradea,Romania,Europe,Eastern Europe,21.9025,47.025278,929
-GZP,Gazipaşa,Gazipaşa,Turkey,Asia,Western Asia,32.290278,36.298056,939
-MJT,Mytilene International,Mytilene,Greece,Europe,Southern Europe,26.602222,39.053333,941
-KYA,Konya,Konya,Turkey,Asia,Western Asia,32.561944,37.978889,942
-PSR,Abruzzo,Pescara,Italy,Europe,Southern Europe,14.186667,42.431667,943
-IOM,Isle of Man,Douglas,Isle of Man,Europe,Northern Europe,-4.624167,54.083333,948
-BIA,Bastia – Poretta,Bastia,France,Europe,Western Europe,9.484722,42.55,949
-MZR,Mazar-i-Sharif International,Mazar-i-Sharif,Afghanistan,Asia,Southern Asia,67.209444,36.706944,950
-FKB,Karlsruhe/Baden-Baden,Karlsruhe,Germany,Europe,Central Europe,8.080556,48.779444,956
-RMU,Región de Murcia,Murcia,Spain,Europe,Southern Europe,-1.1279,37.8062,957
-AES,"Ålesund Airport, Vigra",Ålesund,Norway,Europe,Northern Europe,6.110278,62.560278,960
-BSR,Basra International,Basra,Iraq,Asia,Western Asia,47.662222,30.549167,962
-CIT,Shymkent International,Shymkent,Kazakhstan,Asia,Central Asia,69.478889,42.364167,965
-NYO,Stockholm Skavsta,Stockholm,Sweden,Europe,Northern Europe,16.912222,58.788611,966
-YNB,Yanbu,Yanbu,Saudi Arabia,Asia,Western Asia,38.063333,24.144167,970
-CWL,Cardiff,Cardiff,United Kingdom,Europe,Northern Europe,-3.343333,51.396667,972
-KMS,Kumasi,Kumasi,Ghana,Africa,Western Africa,-1.590833,6.714444,978
-TBZ,Tabriz International,Tabriz,Iran,Asia,Southern Asia,46.235,38.133889,980
-BBU,Baneasa International Airport,Bucharest,Romania,Europe,Eastern Europe,26.1021,44.503201,983
-REG,Reggio Calabria,Reggio Calabria,Italy,Europe,Southern Europe,15.653611,38.071944,993
+PDL,João Paulo II,Ponta Delgada,Portugal,Europe,Southern Europe,-25.697778,37.741111,344
+RBA,Rabat–Salé,Rabat,Morocco,Africa,Northern Africa,-6.751389,34.051389,346
+TGD,Podgorica,Podgorica,Montenegro,Europe,Southern Europe,19.251944,42.359444,348
+HHN,Frankfurt–Hahn,Frankfurt,Germany,Europe,Central Europe,7.263889,49.948611,351
+GDN,Gdańsk Lech Wałęsa,Gdańsk,Poland,Europe,Central Europe,18.466111,54.3775,353
+IBZ,Ibiza,Ibiza,Spain,Europe,Southern Europe,1.373056,38.872778,354
+CLJ,Cluj International,Cluj-Napoca,Romania,Europe,Eastern Europe,23.686111,46.785278,356
+SSH,Sharm el-Sheikh International,Sharm El Sheikh,Egypt,Africa,Northern Africa,34.395,27.977222,357
+TOS,"Tromsø Airport, Langnes",Tromsø,Norway,Europe,Northern Europe,18.918889,69.683333,360
+WMI,Warsaw Modlin,Warsaw,Poland,Europe,Central Europe,20.651667,52.451111,362
+EBB,Entebbe International,Entebbe,Uganda,Africa,Eastern Africa,32.443611,0.0425,367
+EIN,Eindhoven,Eindhoven,Netherlands,Europe,Western Europe,5.374444,51.45,369
+HBE,Borg El Arab,Alexandria,Egypt,Africa,Northern Africa,29.696389,30.917778,372
+FRU,Manas International,Bishkek,Kyrgyzstan,Asia,Central Asia,74.4775,43.061389,374
+SPX,Sphinx International Airport,Giza,Egypt,Africa,Northern Africa,30.894444,30.109722,375
+HER,Heraklion International,Heraklion,Greece,Europe,Southern Europe,25.180278,35.339722,380
+SJJ,Sarajevo International,Sarajevo,Bosnia & Herzegovina,Europe,Southern Europe,18.331389,43.824722,384
+CHQ,Chania International,Chania,Greece,Europe,Southern Europe,24.149722,35.531667,385
+PSA,Pisa International,Pisa,Italy,Europe,Southern Europe,10.395556,43.682778,386
+GLA,Glasgow,Glasgow,United Kingdom,Europe,Northern Europe,-4.433333,55.871944,387
+DSS,Blaise Diagne International Airport,Dakar,Senegal,Africa,Western Africa,-17.066944,14.671111,394
+BGO,"Bergen Airport, Flesland",Bergen,Norway,Europe,Northern Europe,5.218056,60.293333,397
+BRS,Bristol,Bristol,United Kingdom,Europe,Northern Europe,-2.718889,51.3825,401
+LUX,Luxembourg,Luxembourg,Luxembourg,Europe,Western Europe,6.204444,49.623333,405
+GOT,Göteborg Landvetter,Gothenburg,Sweden,Europe,Northern Europe,12.279722,57.662778,412
+PNQ,Pune,Pune,India,Asia,Southern Asia,73.919722,18.582222,413
+TLS,Toulouse–Blagnac,Toulouse,France,Europe,Western Europe,1.367778,43.635,415
+KUT,David the Builder Kutaisi International,Kutaisi,Georgia,Asia,Western Asia,42.4825,42.176667,416
+TFN,Tenerife-North,Tenerife,Spain,Europe,Southern Europe,-16.341667,28.482778,420
+FEZ,Fès–Saïs,Fes,Morocco,Africa,Northern Africa,-4.978056,33.927222,422
+BSL,EuroAirport Basel Mulhouse Freiburg,Basel,Switzerland,Europe,Central Europe,7.521667,47.601111,423
+DYU,Dushanbe International,Dushanbe,Tajikistan,Asia,Central Asia,68.825,38.543333,424
+PFO,Paphos International,Paphos,Cyprus,Europe,Southern Europe,32.485833,34.718056,425
+BJL,Banjul International,Banjul,Gambia,Africa,Western Africa,-16.652222,13.338056,428
+CFU,Corfu International,Corfu,Greece,Europe,Southern Europe,19.911667,39.601944,433
+ASR,Erkilet International,Kayseri,Turkey,Asia,Western Asia,35.495556,38.770278,436
+OLB,Olbia Costa Smeralda,Olbia,Italy,Europe,Southern Europe,9.517778,40.898611,438
+WRO,Copernicus Airport Wrocław,Wrocław,Poland,Europe,Central Europe,16.885833,51.102778,441
+LIN,Linate,Milan,Italy,Europe,Southern Europe,9.278333,45.449444,448
+BDQ,Vadodara,Vadodara,India,Asia,Southern Asia,73.226389,22.336111,450
+JMK,Mykonos Island National,Mykonos,Greece,Europe,Southern Europe,25.348056,37.435,454
+JAI,Jaipur International,Jaipur,India,Asia,Southern Asia,75.812222,26.824167,458
+SCQ,Santiago de Compostela,Santiago de Compostela,Spain,Europe,Southern Europe,-8.415278,42.896389,462
+SLL,Salalah,Salalah,Oman,Asia,Western Asia,54.091389,17.038611,465
+DWC,Al Maktoum International,Dubai,United Arab Emirates,Asia,Western Asia,55.16,24.896111,468
+NTE,Nantes Atlantique,Nantes,France,Europe,Western Europe,-1.607778,47.156944,473
+FUE,Fuerteventura,Fuerteventura,Spain,Europe,Southern Europe,-13.863889,28.452778,474
+BOD,Bordeaux–Mérignac,Bordeaux,France,Europe,Western Europe,-0.715278,44.828611,475
+PEW,Bacha Khan International,Peshawar,Pakistan,Asia,Southern Asia,71.514444,33.993889,478
+NUE,Nuremberg,Nuremberg,Germany,Europe,Central Europe,11.066944,49.498611,484
+IAS,Iași International,Iași,Romania,Europe,Eastern Europe,27.620556,47.178611,487
+ACE,Lanzarote,Lanzarote,Spain,Europe,Southern Europe,-13.605278,28.945556,490
+IXC,Chandigarh International,Chandigarh,India,Asia,Southern Asia,76.788611,30.673333,491
+KUN,Kaunas,Kaunas,Lithuania,Europe,Northern Europe,24.084722,54.963889,497
+NCL,Newcastle,Newcastle upon Tyne,United Kingdom,Europe,Northern Europe,-1.691667,55.0375,498
+LJU,Ljubljana Jože Pučnik,Ljubljana,Slovenia,Europe,Southern Europe,14.4575,46.223611,501
+MGQ,Aden Adde International,Mogadishu,Somalia,Africa,Eastern Africa,45.305,2.014722,502
+BLL,Billund,Billund,Denmark,Europe,Northern Europe,9.151667,55.740278,503
+ASM,Asmara International,Asmara,Eritrea,Africa,Eastern Africa,38.910556,15.291944,504
+FMM,Memmingen,Memmingen,Germany,Europe,Central Europe,10.2375,47.988056,511
+TRF,"Sandefjord Airport, Torp",Oslo,Norway,Europe,Northern Europe,10.258611,59.186667,514
+ROB,Roberts International,Monrovia,Liberia,Africa,Western Africa,-10.362222,6.233889,519
+NQZ,Nursultan Nazarbayev International Airport,Astana,Kazakhstan,Asia,Central Asia,71.466944,51.023056,520
+POZ,Poznań–Ławica,Poznań,Poland,Europe,Central Europe,16.826389,52.421111,523
+FIH,N djili,Kinshasa,Democratic Republic of the Congo,Africa,Central Africa,15.444444,-4.385833,524
+LPL,Liverpool John Lennon,Liverpool,United Kingdom,Europe,Northern Europe,-2.849722,53.333611,529
+BFS,Belfast International,Belfast,United Kingdom,Europe,Northern Europe,-6.215833,54.6575,531
+RVN,Rovaniemi,Rovaniemi,Finland,Europe,Northern Europe,25.830278,66.564722,534
+KGL,Kigali International,Kigali,Rwanda,Africa,Eastern Africa,30.139444,-1.968611,537
+ORK,Cork,Cork,Ireland,Europe,Northern Europe,-8.491111,51.841389,539
+GRX,Federico García Lorca,Granada,Spain,Europe,Southern Europe,-3.777222,37.188611,541
+VAR,Varna,Varna,Bulgaria,Europe,Eastern Europe,27.825,43.231944,542
+BTS,Bratislava Airport,Bratislava,Slovakia,Europe,Central Europe,17.212778,48.170278,544
+HAJ,Hannover,Hanover,Germany,Europe,Central Europe,9.689444,52.460556,545
+BDS,Brindisi,Brindisi,Italy,Europe,Southern Europe,17.948056,40.660556,546
+LYP,Faisalabad International,Faisalabad District,Pakistan,Asia,Southern Asia,72.994722,31.365,548
+DTM,Dortmund,Dortmund,Germany,Europe,Central Europe,7.612222,51.518333,551
+RAI,Nelson Mandela International,Praia,Cape Verde,Africa,Western Africa,-23.484722,14.941389,557
+TSR,Timișoara Traian Vuia International,Timișoara,Romania,Europe,Eastern Europe,21.337778,45.81,558
+SKT,Sialkot International,Sialkot,Pakistan,Asia,Southern Asia,74.363889,32.535278,559
+LCY,London City,London,United Kingdom,Europe,Northern Europe,0.054167,51.505,560
+ABJ,Port Bouet,Abidjan,Côte d’Ivoire,Africa,Western Africa,-3.926389,5.261389,564
+STV,Surat,Surat,India,Asia,Southern Asia,72.741667,21.114167,566
+NRN,Weeze,Düsseldorf,Germany,Europe,Central Europe,6.142222,51.6025,567
+RHO,Rhodes International,Rhodes,Greece,Europe,Southern Europe,28.086111,36.405556,569
+AHB,Abha Regional,Abha,Saudi Arabia,Asia,Western Asia,42.656667,18.240278,571
+TRN,Turin,Turin,Italy,Europe,Southern Europe,7.649444,45.2025,574
+PHC,Port Harcourt International,Port Harcourt,Nigeria,Africa,Western Africa,6.949722,5.015556,575
+TIV,Tivat,Tivat,Montenegro,Europe,Southern Europe,18.723333,42.404722,576
+COV,Cukurova International Airport,Mersin,Turkey,Asia,Western Asia,35.0675,36.896944,577
+DLM,Dalaman,Dalaman,Turkey,Asia,Western Asia,28.7925,36.713056,580
+JRO,Kilimanjaro International,Mount Kilimanjaro,Tanzania,Africa,Eastern Africa,37.074444,-3.429444,582
+VRN,Verona Villafranca,Verona,Italy,Europe,Southern Europe,10.888056,45.396389,583
+KTW,Katowice International,Katowice,Poland,Europe,Central Europe,19.08,50.474167,584
+DLA,Douala International,Douala,Cameroon,Africa,Central Africa,9.719444,4.006111,585
+SNN,Shannon,"Shannon, County Clare",Ireland,Europe,Northern Europe,-8.924722,52.701944,587
+MUX,Multan International,Multan,Pakistan,Asia,Southern Asia,71.419167,30.203333,590
+TUU,Tabuk Regional,Tabuk,Saudi Arabia,Asia,Western Asia,36.618889,28.365556,591
+NAV,Nevşehir Kapadokya,Nevşehir,Turkey,Asia,Western Asia,34.534444,38.771944,595
+SXR,Srinagar International,Srinagar,India,Asia,Southern Asia,74.774167,33.987222,596
+TZX,Trabzon,Trabzon,Turkey,Asia,Western Asia,39.789722,40.995,597
+ORN,Oran Es Sénia,Oran,Algeria,Africa,Northern Africa,-0.621111,35.623889,598
+BHD,George Best Belfast City,Belfast,United Kingdom,Europe,Northern Europe,-5.8725,54.618056,602
+NKC,Nouakchott International,Nouakchott,Mauritania,Africa,Western Africa,-15.948056,18.097778,605
+MYD,Malindi,Malindi,Kenya,Africa,Eastern Africa,40.101667,-3.229167,608
+BOJ,Burgas,Burgas,Bulgaria,Europe,Eastern Europe,27.515278,42.569722,609
+IDR,Devi Ahilya Bai Holkar,Indore,India,Asia,Southern Asia,75.801111,22.721667,619
+LXR,Luxor International,Luxor,Egypt,Africa,Northern Africa,32.706667,25.671111,620
+KAN,Mallam Aminu Kano International,Kano,Nigeria,Africa,Western Africa,8.524722,12.0475,623
+LBA,Leeds Bradford,Leeds,United Kingdom,Europe,Northern Europe,-1.660556,53.865833,625
+GZT,Oğuzeli,Gaziantep,Turkey,Asia,Western Asia,37.478611,36.947222,629
+KIS,Kisumu International,Kisumu,Kenya,Africa,Eastern Africa,34.729722,-0.085556,630
+UDR,Maharana Pratap,Udaipur,India,Asia,Southern Asia,73.896111,24.617778,632
+DJE,Djerba–Zarzis International,Djerba,Tunisia,Africa,Northern Africa,10.775556,33.875,634
+SZG,Salzburg,Salzburg,Austria,Europe,Central Europe,13.004444,47.793333,636
+GIZ,Jazan,Jizan,Saudi Arabia,Asia,Western Asia,42.585833,16.901111,640
+EMA,East Midlands,Nottingham,United Kingdom,Europe,Northern Europe,-1.328056,52.831111,645
+ASB,Ashgabat International,Ashgabat,Turkmenistan,Asia,Central Asia,58.360833,37.986944,647
+ZAD,Zadar,Zadar,Croatia,Europe,Southern Europe,15.346667,44.108333,649
+DED,Dehradun,Dehradun,India,Asia,Southern Asia,78.180278,30.189722,650
+OVD,Asturias,Asturias,Spain,Europe,Southern Europe,-6.034722,43.563611,653
+CKY,Conakry International,Conakry,Guinea,Africa,Western Africa,-13.611944,9.576944,658
+RZE,Rzeszów–Jasionka,Rzeszów,Poland,Europe,Central Europe,22.018889,50.11,661
+HSR,Rajkot International Airport,Rajkot,India,Asia,Southern Asia,71.028333,22.388056,662
+NSI,Yaoundé Nsimalen International,Yaoundé,Cameroon,Africa,Central Africa,11.553333,3.7225,663
+MAH,Menorca,Menorca,Spain,Europe,Southern Europe,4.218611,39.8625,665
+ZTH,Zakynthos International,Zakynthos Island,Greece,Europe,Southern Europe,20.884167,37.750833,666
+BRE,Bremen,Bremen,Germany,Europe,Central Europe,8.786667,53.0475,667
+SID,Amílcar Cabral International,Sal,Cape Verde,Africa,Western Africa,-22.949444,16.741389,668
+TRS,Trieste – Friuli Venezia Giulia,Trieste,Italy,Europe,Southern Europe,13.472222,45.8275,670
+AAL,Aalborg,Aalborg,Denmark,Europe,Northern Europe,9.849167,57.092778,678
+ELQ,Prince Nayef bin Abdulaziz Regional,Al-Qassim Region,Saudi Arabia,Asia,Western Asia,43.773889,26.302778,680
+JNX,Naxos Island National,Naxos,Greece,Europe,Southern Europe,25.368611,37.082222,684
+TRD,"Trondheim Airport, Værnes",Trondheim,Norway,Europe,Northern Europe,10.924167,63.4575,688
+ASW,Aswan International,Aswan,Egypt,Africa,Northern Africa,32.82,23.964444,689
+BNI,Benin,Benin City,Nigeria,Africa,Western Africa,5.599444,6.316944,692
+SUF,Lamezia Terme International,Lamezia Terme,Italy,Europe,Southern Europe,16.241667,38.908333,694
+SKD,Samarkand International,Samarkand,Uzbekistan,Asia,Central Asia,66.984722,39.700556,695
+MHD,Mashhad International,Mashhad,Iran,Asia,Southern Asia,59.645,36.234167,696
+SVG,"Stavanger Airport, Sola",Stavanger,Norway,Europe,Northern Europe,5.637778,58.876667,698
+LCG,A Coruña,A Coruña,Spain,Europe,Southern Europe,-8.377222,43.302222,704
+GOP,Mahayogi Gorakhnath,Gorakhpur,India,Asia,Southern Asia,83.45,26.741111,705
+BJV,Milas–Bodrum,Bodrum,Turkey,Asia,Western Asia,27.664444,37.250556,706
+BKO,Bamako–Sénou International,Bamako,Mali,Africa,Western Africa,-7.95,12.533611,710
+MJI,Mitiga International,Tripoli,Libya,Africa,Northern Africa,13.289722,32.893333,712
+YYT,St. John's International,St. John s,Canada,North America,Northern America,-52.751944,47.618611,715
+BUS,Batumi International,Batumi,Georgia,Asia,Western Asia,41.599722,41.610278,717
+ETM,Ramon Airport,Eilat,Israel,Asia,Western Asia,35.011417,29.723694,718
+MPL,Montpellier–Méditerranée,Montpellier,France,Europe,Western Europe,3.961389,43.583333,719
+JIB,Djibouti–Ambouli International,Balbala,Djibouti,Africa,Eastern Africa,43.159444,11.547222,721
+AHO,Alghero-Fertilia,Alghero,Italy,Europe,Southern Europe,8.289722,40.630278,723
+OUD,Angads,Oujda,Morocco,Africa,Northern Africa,-1.923889,34.787222,730
+SPC,La Palma,Santa Cruz de La Palma,Spain,Europe,Southern Europe,-17.755556,28.626389,735
+RTM,Rotterdam The Hague,Rotterdam,Netherlands,Europe,Western Europe,4.430833,51.953056,738
+EAS,San Sebastián,Donostia / San Sebastián,Spain,Europe,Southern Europe,-1.790556,43.356389,744
+EDL,Eldoret International,Eldoret,Kenya,Africa,Eastern Africa,35.238889,0.404722,746
+CZL,Mohamed Boudiaf International,Constantine,Algeria,Africa,Northern Africa,6.620278,36.276111,747
+ABZ,Aberdeen,Aberdeen,United Kingdom,Europe,Northern Europe,-2.200278,57.204167,757
+LDE,Tarbes–Lourdes–Pyrénées,Lourdes,France,Europe,Western Europe,-0.002778,43.185556,758
+KSC,Košice International,Košice,Slovakia,Europe,Central Europe,21.241111,48.663056,764
+TER,Lajes Field,Terceira Island,Portugal,Europe,Southern Europe,-27.090833,38.761944,771
+NDR,Nador International,Nador,Morocco,Africa,Northern Africa,-3.028333,34.988889,778
+JSI,Skiathos Island National,Skiathos,Greece,Europe,Southern Europe,23.503611,39.177222,781
+ENU,Akanu Ibiam International,Enugu,Nigeria,Africa,Western Africa,7.561944,6.474167,782
+GOH,Nuuk,Nuuk,Greenland,North America,Northern America,-51.678056,64.190833,783
+PAS,Paros National,Parikia,Greece,Europe,Southern Europe,25.128611,37.010278,784
+IXJ,Jammu,Jammu,Unknown Region,Asia,Southern Asia,74.8375,32.689167,786
+QOW,Sam Mbakwe,Owerri,Nigeria,Africa,Western Africa,7.206111,5.426944,787
+SOU,Southampton,Southampton,United Kingdom,Europe,Northern Europe,-1.356667,50.950278,788
+MIR,Monastir Habib Bourguiba International,Monastir,Tunisia,Africa,Northern Africa,10.754722,35.758056,790
+BIQ,Biarritz Pays Basque,Biarritz,France,Europe,Western Europe,-1.531111,43.468333,791
+BHO,Raja Bhoj,Bhopal,India,Asia,Southern Asia,77.3375,23.2875,799
+RMF,Marsa Alam International,Marsa Alam,Egypt,Africa,Northern Africa,34.583611,25.557222,803
+ABB,Asaba International,Asaba,Nigeria,Africa,Western Africa,6.667222,6.203056,806
+LEJ,Leipzig/Halle Airport,Leipzig,Germany,Europe,Central Europe,12.241667,51.4325,808
+SYZ,Shiraz International,Shiraz,Iran,Asia,Southern Asia,52.588611,29.540278,809
+XRY,Jerez,Jerez de la Frontera,Spain,Europe,Southern Europe,-6.06,36.744722,814
+MLO,Milos Island National,"Plaka, Milos",Greece,Europe,Southern Europe,24.472778,36.696667,815
+INV,Inverness,Inverness,United Kingdom,Europe,Northern Europe,-4.05,57.54,816
+GOA,Genoa Cristoforo Colombo,Genoa,Italy,Europe,Southern Europe,8.8375,44.413333,818
+HAS,Ha il Regional,Ha il,Saudi Arabia,Asia,Western Asia,41.686389,27.438056,819
+BJM,Bujumbura International,Bujumbura,Burundi,Africa,Eastern Africa,29.318611,-3.323889,820
+HGA,Hargeisa,Hargeisa,Somalia,Africa,Eastern Africa,44.083889,9.513889,825
+ARK,Arusha,Arusha,Tanzania,Africa,Eastern Africa,36.625,-3.367222,829
+LUZ,Lublin,Lublin,Poland,Europe,Central Europe,22.690556,51.231389,832
+EFL,Kephalonia International,Cephalonia,Greece,Europe,Southern Europe,20.500556,38.12,836
+PZU,Port Sudan New International,Port,Sudan,Africa,Northern Africa,37.234167,19.433611,840
+ALF,Alta,Alta,Norway,Europe,Northern Europe,23.371667,69.976111,841
+SDR,Santander,Santander,Spain,Europe,Southern Europe,-3.82,43.426944,843
+BSR,Basra International,Basra,Iraq,Asia,Western Asia,47.662222,30.549167,844
+EVE,"Harstad/Narvik Airport, Evenes",Narvik,Norway,Europe,Northern Europe,16.678056,68.491389,849
+FAE,Vágar,Sørvágur,Faroe Islands,Europe,Northern Europe,-7.293056,62.066389,855
+LIL,Lille,Lille,France,Europe,Western Europe,3.086944,50.563333,857
+LFW,Lomé–Tokoin International,Lomé,Togo,Africa,Western Africa,1.254444,6.165556,861
+JKH,Chios Island National,Chios,Greece,Europe,Southern Europe,26.140556,38.343056,864
+SXB,Strasbourg,Strasbourg,France,Europe,Western Europe,7.634444,48.541944,865
+KGS,Kos Island International,Kos,Greece,Europe,Southern Europe,27.091667,36.793333,867
+BOO,Bodø,Bodø,Norway,Europe,Northern Europe,14.365278,67.269167,872
+KIR,Kerry,County Kerry,Ireland,Europe,Northern Europe,-9.523889,52.180833,875
+TIF,Ta if Regional,Ta if,Saudi Arabia,Asia,Western Asia,40.544444,21.483333,877
+INN,Innsbruck,Innsbruck,Austria,Europe,Central Europe,11.343889,47.260278,881
+AJF,Al-Jawf Domestic,Al Jawf Region,Saudi Arabia,Asia,Western Asia,40.1,29.785,884
+TTU,Sania Ramel,Tétouan,Morocco,Africa,Northern Africa,-5.328056,35.59,885
+BWA,Gautam Buddha,Siddharthanagar,Nepal,Asia,Southern Asia,83.416389,27.505833,887
+DHM,Dharamsala airport,Dharamshala,India,Asia,Southern Asia,76.260556,32.165278,888
+NJF,Al Najaf International,Najaf,Iraq,Asia,Western Asia,44.404167,31.989722,889
+FNA,Lungi International,Freetown,Sierra Leone,Africa,Western Africa,-13.195556,8.616389,891
+SBZ,Sibiu International,Sibiu,Romania,Europe,Eastern Europe,24.091389,45.785556,894
+PUY,Pula,Pula,Croatia,Europe,Southern Europe,13.922222,44.893611,898
+AAR,Aarhus,Aarhus,Denmark,Europe,Northern Europe,10.619444,56.303889,900
+PLQ,Palanga International,Palanga,Lithuania,Europe,Northern Europe,21.093889,55.973333,904
+SCV,Suceava International,Suceava,Romania,Europe,Eastern Europe,26.354167,47.6875,907
+IXU,Aurangabad,Aurangabad,India,Asia,Southern Asia,75.398056,19.862778,910
+AJA,Ajaccio Napoleon Bonaparte,Ajaccio,France,Europe,Western Europe,8.8025,41.923889,912
+GRO,Girona–Costa Brava,Girona,Spain,Europe,Southern Europe,2.760556,41.900833,914
+HMB,Sohag International,Sohag,Egypt,Africa,Northern Africa,31.742778,26.342778,918
+KMS,Kumasi,Kumasi,Ghana,Africa,Western Africa,-1.590833,6.714444,929
+RMU,Región de Murcia,Murcia,Spain,Europe,Southern Europe,-1.1279,37.8062,931
+IOM,Isle of Man,Douglas,Isle of Man,Europe,Northern Europe,-4.624167,54.083333,937
+INI,Niš Constantine the Great,Niš,Serbia,Europe,Southern Europe,21.853611,43.337222,938
+AOI,Marche Airport,Ancona,Italy,Europe,Southern Europe,13.360278,43.616667,940
+VGO,Vigo–Peinador,Vigo,Spain,Europe,Southern Europe,-8.626667,42.231667,947
+FKB,Karlsruhe/Baden-Baden,Karlsruhe,Germany,Europe,Central Europe,8.080556,48.779444,953
+BIA,Bastia – Poretta,Bastia,France,Europe,Western Europe,9.484722,42.55,954
+LEI,Almería,Almería,Spain,Europe,Southern Europe,-2.37,36.843889,957
+OMR,Oradea International,Oradea,Romania,Europe,Eastern Europe,21.9025,47.025278,959
+PSR,Abruzzo,Pescara,Italy,Europe,Southern Europe,14.186667,42.431667,960
+TBZ,Tabriz International,Tabriz,Iran,Asia,Southern Asia,46.235,38.133889,965
+UME,Umeå,Umeå,Sweden,Europe,Northern Europe,20.282778,63.791944,968
+CWL,Cardiff,Cardiff,United Kingdom,Europe,Northern Europe,-3.343333,51.396667,974
+MJT,Mytilene International,Mytilene,Greece,Europe,Southern Europe,26.602222,39.053333,976
+LLA,Luleå,Luleå,Sweden,Europe,Northern Europe,22.121944,65.543889,978
+NYO,Stockholm Skavsta,Stockholm,Sweden,Europe,Northern Europe,16.912222,58.788611,979
+REG,Reggio Calabria,Reggio Calabria,Italy,Europe,Southern Europe,15.653611,38.071944,984
+BNX,Banja Luka International,Banja Luka,Bosnia & Herzegovina,Europe,Southern Europe,17.2975,44.941389,985
+GNB,Alpes–Isère,Grenoble,France,Europe,Western Europe,5.332778,45.363056,990
+KYA,Konya,Konya,Turkey,Asia,Western Asia,32.561944,37.978889,991
 SAG,Shirdi,Shirdi,India,Asia,Southern Asia,74.3754,19.69,994
-BNX,Banja Luka International,Banja Luka,Bosnia & Herzegovina,Europe,Southern Europe,17.2975,44.941389,996
-BEN,Benina International,Benghazi,Libya,Africa,Northern Africa,20.269444,32.096667,997
-NBE,Enfidha–Hammamet International,Enfidha,Tunisia,Africa,Northern Africa,10.438333,36.075556,998
-GOM,Goma International,Goma,Democratic Republic of the Congo,Africa,Central Africa,29.238333,-1.670833,1001
-UKK,Oskemen,Oskemen,Kazakhstan,Asia,Central Asia,82.493611,50.036667,1002
-LAU,Manda,Lamu,Kenya,Africa,Eastern Africa,40.913056,-2.2525,1007
-RSI,Red Sea International Airport,Red Sea Project,Saudi Arabia,Asia,Western Asia,37.078333,25.630278,1011
-KEP,Nepalgunj,Nepalgunj,Nepal,Asia,Southern Asia,81.666944,28.103611,1014
-BCM,George Enescu International,Bacău,Romania,Europe,Eastern Europe,26.910278,46.521944,1018
-ZAZ,Zaragoza,Zaragoza,Spain,Europe,Southern Europe,-1.041667,41.666111,1019
-BRQ,Brno–Tuřany,Brno,Czechia,Europe,Central Europe,16.694444,49.151389,1021
-MLH,Mulhouse/Basel EuroAirport French FR,Basel,Switzerland,Europe,Central Europe,7.529167,47.600833,1024
-DIY,Diyarbakır,Diyarbakır,Turkey,Asia,Western Asia,40.201111,37.893889,1026
-EAM,Najran Regional Airport,Najran,Saudi Arabia,Asia,Western Asia,44.419167,17.611389,1029
-NOC,Ireland West Airport Knock,"Knock, County Mayo",Ireland,Europe,Northern Europe,-8.818611,53.910278,1033
-VIL,Dakhla,Dakhla,Unknown Region,Africa,Northern Africa,-15.931944,23.718333,1042
-UME,Umeå,Umeå,Sweden,Europe,Northern Europe,20.282778,63.791944,1045
-ULH,Prince Abdul Majeed bin Abdulaziz Domestic,Al-`Ula,Saudi Arabia,Asia,Western Asia,38.105278,26.489722,1048
-GGR,Garowe,Garoe,Somalia,Africa,Eastern Africa,48.5675,8.458056,1051
-AJR,Arvidsjaur,Arvidsjaur,Sweden,Europe,Northern Europe,19.281944,65.590278,1055
-GNB,Alpes–Isère,Grenoble,France,Europe,Western Europe,5.332778,45.363056,1056
-GHV,Brașov-Ghimbav International Airport,Brasov,Romania,Europe,Eastern Europe,25.52,45.701667,1058
-KRS,"Kristiansand Airport, Kjevik",Kristiansand,Norway,Europe,Northern Europe,8.085278,58.204167,1062
-MMX,Malmö,Malmö,Sweden,Europe,Northern Europe,13.375,55.5425,1063
-IVL,Ivalo,Ivalo,Finland,Europe,Northern Europe,27.405278,68.607222,1065
-RZV,Rize–Artvin Airport,Rize,Turkey,Asia,Western Asia,40.828889,41.169167,1066
-PIK,Glasgow Prestwick,Glasgow,United Kingdom,Europe,Northern Europe,-4.586667,55.509444,1068
-ISU,Sulaimaniyah International,Sulaymaniyah,Iraq,Asia,Western Asia,45.315833,35.5625,1070
-COO,Cadjehoun,Cotonou,Benin,Africa,Western Africa,2.384444,6.357222,1072
-JER,Jersey,Saint Helier,Jersey,Europe,Northern Europe,-2.195278,49.207778,1074
-BOH,Bournemouth,Bournemouth,United Kingdom,Europe,Northern Europe,-1.8425,50.78,1075
-SZF,Samsun-Çarşamba,Samsun,Turkey,Asia,Western Asia,36.567222,41.254444,1078
-KRN,Kiruna,Kiruna,Sweden,Europe,Northern Europe,20.336667,67.821944,1081
-GUW,Atyrau,Atyrau,Kazakhstan,Asia,Central Asia,51.821389,47.121944,1087
-UET,Quetta International,Quetta,Pakistan,Asia,Southern Asia,66.937778,30.251389,1089
-DNZ,Denizli Çardak,Denizli,Turkey,Asia,Western Asia,29.701389,37.785556,1092
-HOR,Horta,"Horta, Azores",Portugal,Europe,Southern Europe,-28.716389,38.52,1096
-PKR,Pokhara,Pokhara,Nepal,Asia,Southern Asia,83.981389,28.200556,1097
-GIB,Gibraltar International,Gibraltar,Gibraltar,Europe,Southern Europe,-5.349722,36.151111,1098
-ESU,Essaouira-Mogador,Essaouira,Morocco,Africa,Northern Africa,-9.681667,31.3975,1099
-LBV,Libreville International,Libreville,Gabon,Africa,Central Africa,9.412222,0.458611,1100
-REU,Reus,Reus,Spain,Europe,Southern Europe,1.167222,41.1475,1101
-BJA,Abane Ramdane,Béjaïa,Algeria,Africa,Northern Africa,5.07,36.711944,1102
-OSS,Osh,Osh,Kyrgyzstan,Asia,Central Asia,72.793333,40.608889,1106
-PEG,San Francesco d Assisi,Perugia,Italy,Europe,Southern Europe,12.510278,43.097222,1111
-OUA,Ouagadougou,Ouagadougou,Burkina Faso,Africa,Western Africa,-1.5125,12.353333,1116
-QSR,Salerno / Pontecagnano Airport,Salerno,Italy,Europe,Southern Europe,14.9113,40.620399,1117
-IXU,Aurangabad,Aurangabad,India,Asia,Southern Asia,75.398056,19.862778,1119
-VST,Stockholm Västerås,Stockholm,Sweden,Europe,Northern Europe,16.633611,59.589444,1122
-YFB,Iqaluit,Iqaluit,Canada,North America,Northern America,-68.555833,63.756389,1123
-NDJ,N Djamena International,N Djamena,Chad,Africa,Central Africa,15.033889,12.133611,1129
-CRV,Crotone Airport,Crotone,Italy,Europe,Southern Europe,17.0802,38.9972,1130
-JDH,Jodhpur,Jodhpur,India,Asia,Southern Asia,73.048889,26.251111,1134
-HJR,Khajuraho,Khajuraho Group of Monuments,India,Asia,Southern Asia,79.918611,24.817222,1135
-KTT,Kittilä,Kittilä,Finland,Europe,Northern Europe,24.846944,67.701111,1139
-NKT,Şırnak,Şırnak,Turkey,Asia,Western Asia,42.061944,37.363611,1140
-OXB,Osvaldo Vieira International,Bissau,Guinea-Bissau,Africa,Western Africa,-15.653611,11.894722,1142
-PNL,Pantelleria,Pantelleria,Italy,Europe,Southern Europe,11.968056,36.815,1144
-GWL,Gwalior,Gwalior,India,Asia,Southern Asia,78.227778,26.293333,1149
-NQY,Cornwall Airport Newquay,Newquay,United Kingdom,Europe,Northern Europe,-5.001667,50.443333,1161
-DRS,Dresden,Dresden,Germany,Europe,Central Europe,13.768056,51.134444,1166
-GCI,Guernsey,Saint Peter Port,Guernsey,Europe,Northern Europe,-2.601944,49.434722,1168
-LCJ,Łódź Władysław Reymont,Łódź,Poland,Europe,Central Europe,19.398056,51.721944,1169
-FMO,Münster Osnabrück International,Münster,Germany,Europe,Central Europe,7.684722,52.134722,1171
-SFA,Sfax–Thyna International,Sfax,Tunisia,Africa,Northern Africa,10.691111,34.718056,1172
-MQM,Mardin,Mardin,Turkey,Asia,Western Asia,40.631667,37.223333,1174
-OUL,Oulu,Oulu,Finland,Europe,Northern Europe,25.354444,64.93,1177
-HTY,Hatay,Hatay Province,Turkey,Asia,Western Asia,36.284722,36.359722,1178
-LYC,Lycksele,Lycksele,Sweden,Europe,Northern Europe,18.716111,64.548333,1180
-LKN,Leknes,Leknes,Norway,Europe,Northern Europe,13.611944,68.154444,1183
-PGF,Perpignan–Rivesaltes,Perpignan,France,Europe,Western Europe,2.869722,42.740833,1184
+LAU,Manda,Lamu,Kenya,Africa,Eastern Africa,40.913056,-2.2525,997
+RSI,Red Sea International Airport,Red Sea Project,Saudi Arabia,Asia,Western Asia,37.078333,25.630278,998
+GHV,Brașov-Ghimbav International Airport,Brasov,Romania,Europe,Eastern Europe,25.52,45.701667,1000
+KEP,Nepalgunj,Nepalgunj,Nepal,Asia,Southern Asia,81.666944,28.103611,1003
+UKK,Oskemen,Oskemen,Kazakhstan,Asia,Central Asia,82.493611,50.036667,1004
+CIT,Shymkent International,Shymkent,Kazakhstan,Asia,Central Asia,69.478889,42.364167,1007
+NBE,Enfidha–Hammamet International,Enfidha,Tunisia,Africa,Northern Africa,10.438333,36.075556,1008
+GOM,Goma International,Goma,Democratic Republic of the Congo,Africa,Central Africa,29.238333,-1.670833,1009
+BRQ,Brno–Tuřany,Brno,Czechia,Europe,Central Europe,16.694444,49.151389,1012
+BBU,Baneasa International Airport,Bucharest,Romania,Europe,Eastern Europe,26.1021,44.503201,1013
+YNB,Yanbu,Yanbu,Saudi Arabia,Asia,Western Asia,38.063333,24.144167,1015
+GIB,Gibraltar International,Gibraltar,Gibraltar,Europe,Southern Europe,-5.349722,36.151111,1023
+HOR,Horta,"Horta, Azores",Portugal,Europe,Southern Europe,-28.716389,38.52,1026
+VIL,Dakhla,Dakhla,Unknown Region,Africa,Northern Africa,-15.931944,23.718333,1030
+SZF,Samsun-Çarşamba,Samsun,Turkey,Asia,Western Asia,36.567222,41.254444,1031
+GZP,Gazipaşa,Gazipaşa,Turkey,Asia,Western Asia,32.290278,36.298056,1034
+IVL,Ivalo,Ivalo,Finland,Europe,Northern Europe,27.405278,68.607222,1036
+MZR,Mazar-i-Sharif International,Mazar-i-Sharif,Afghanistan,Asia,Southern Asia,67.209444,36.706944,1040
+BCM,George Enescu International,Bacău,Romania,Europe,Eastern Europe,26.910278,46.521944,1045
+EAM,Najran Regional Airport,Najran,Saudi Arabia,Asia,Western Asia,44.419167,17.611389,1046
+NOC,Ireland West Airport Knock,"Knock, County Mayo",Ireland,Europe,Northern Europe,-8.818611,53.910278,1049
+GGR,Garowe,Garoe,Somalia,Africa,Eastern Africa,48.5675,8.458056,1050
+MMX,Malmö,Malmö,Sweden,Europe,Northern Europe,13.375,55.5425,1055
+BEN,Benina International,Benghazi,Libya,Africa,Northern Africa,20.269444,32.096667,1056
+RZV,Rize–Artvin Airport,Rize,Turkey,Asia,Western Asia,40.828889,41.169167,1057
+ULH,Prince Abdul Majeed bin Abdulaziz Domestic,Al-`Ula,Saudi Arabia,Asia,Western Asia,38.105278,26.489722,1061
+GUW,Atyrau,Atyrau,Kazakhstan,Asia,Central Asia,51.821389,47.121944,1062
+NKT,Şırnak,Şırnak,Turkey,Asia,Western Asia,42.061944,37.363611,1065
+QSR,Salerno / Pontecagnano Airport,Salerno,Italy,Europe,Southern Europe,14.9113,40.620399,1067
+DNZ,Denizli Çardak,Denizli,Turkey,Asia,Western Asia,29.701389,37.785556,1068
+OUA,Ouagadougou,Ouagadougou,Burkina Faso,Africa,Western Africa,-1.5125,12.353333,1069
+ZAZ,Zaragoza,Zaragoza,Spain,Europe,Southern Europe,-1.041667,41.666111,1073
+UET,Quetta International,Quetta,Pakistan,Asia,Southern Asia,66.937778,30.251389,1079
+MLH,Mulhouse/Basel EuroAirport French FR,Basel,Switzerland,Europe,Central Europe,7.529167,47.600833,1081
+RNN,Bornholm,Bornholm,Denmark,Europe,Northern Europe,14.760278,55.063333,1083
+BJA,Abane Ramdane,Béjaïa,Algeria,Africa,Northern Africa,5.07,36.711944,1086
+PIK,Glasgow Prestwick,Glasgow,United Kingdom,Europe,Northern Europe,-4.586667,55.509444,1087
+LBV,Libreville International,Libreville,Gabon,Africa,Central Africa,9.412222,0.458611,1089
+JER,Jersey,Saint Helier,Jersey,Europe,Northern Europe,-2.195278,49.207778,1092
+AES,"Ålesund Airport, Vigra",Ålesund,Norway,Europe,Northern Europe,6.110278,62.560278,1094
+DIY,Diyarbakır,Diyarbakır,Turkey,Asia,Western Asia,40.201111,37.893889,1095
+LCJ,Łódź Władysław Reymont,Łódź,Poland,Europe,Central Europe,19.398056,51.721944,1099
+KRS,"Kristiansand Airport, Kjevik",Kristiansand,Norway,Europe,Northern Europe,8.085278,58.204167,1100
+OSS,Osh,Osh,Kyrgyzstan,Asia,Central Asia,72.793333,40.608889,1104
+OUL,Oulu,Oulu,Finland,Europe,Northern Europe,25.354444,64.93,1108
+NQY,Cornwall Airport Newquay,Newquay,United Kingdom,Europe,Northern Europe,-5.001667,50.443333,1114
+KKN,"Kirkenes Airport, Høybuktmoen",Kirkenes,Norway,Europe,Northern Europe,29.891389,69.725833,1116
+PKR,Pokhara,Pokhara,Nepal,Asia,Southern Asia,83.981389,28.200556,1117
+BOH,Bournemouth,Bournemouth,United Kingdom,Europe,Northern Europe,-1.8425,50.78,1118
+REU,Reus,Reus,Spain,Europe,Southern Europe,1.167222,41.1475,1121
+KTT,Kittilä,Kittilä,Finland,Europe,Northern Europe,24.846944,67.701111,1122
+GWL,Gwalior,Gwalior,India,Asia,Southern Asia,78.227778,26.293333,1125
+OXB,Osvaldo Vieira International,Bissau,Guinea-Bissau,Africa,Western Africa,-15.653611,11.894722,1127
+DRS,Dresden,Dresden,Germany,Europe,Central Europe,13.768056,51.134444,1129
+LYC,Lycksele,Lycksele,Sweden,Europe,Northern Europe,18.716111,64.548333,1130
+ISU,Sulaimaniyah International,Sulaymaniyah,Iraq,Asia,Western Asia,45.315833,35.5625,1134
+LYR,"Svalbard Airport, Longyear",Longyearbyen,Svalbard & Jan Mayen,Europe,Northern Europe,15.465556,78.246111,1139
+OHD,Ohrid St. Paul the Apostle,Ohrid,Republic of North Macedonia,Europe,Southern Europe,20.742222,41.18,1141
+NDJ,N Djamena International,N Djamena,Chad,Africa,Central Africa,15.033889,12.133611,1145
+ESU,Essaouira-Mogador,Essaouira,Morocco,Africa,Northern Africa,-9.681667,31.3975,1146
+COO,Cadjehoun,Cotonou,Benin,Africa,Western Africa,2.384444,6.357222,1148
+VST,Stockholm Västerås,Stockholm,Sweden,Europe,Northern Europe,16.633611,59.589444,1150
+HJR,Khajuraho,Khajuraho Group of Monuments,India,Asia,Southern Asia,79.918611,24.817222,1151
+SZZ,Solidarity Szczecin–Goleniów,Szczecin,Poland,Europe,Central Europe,14.902222,53.584722,1154
+PEG,San Francesco d Assisi,Perugia,Italy,Europe,Southern Europe,12.510278,43.097222,1155
+SFA,Sfax–Thyna International,Sfax,Tunisia,Africa,Northern Africa,10.691111,34.718056,1157
+KRN,Kiruna,Kiruna,Sweden,Europe,Northern Europe,20.336667,67.821944,1161
+RKT,Ras Al Khaimah International,Ras al-Khaimah,United Arab Emirates,Asia,Western Asia,55.938889,25.613611,1163
+FMO,Münster Osnabrück International,Münster,Germany,Europe,Central Europe,7.684722,52.134722,1164
+GNY,Sanliurfa,Şanlıurfa,Turkey,Asia,Western Asia,38.898752,37.447658,1168
+SCO,Aktau,Aktau,Kazakhstan,Asia,Central Asia,51.091944,43.86,1172
+CRV,Crotone Airport,Crotone,Italy,Europe,Southern Europe,17.0802,38.9972,1173
+ATZ,Assiut,Asyut,Egypt,Africa,Northern Africa,31.011944,27.046389,1177
+PVK,Aktion National,Preveza,Greece,Europe,Southern Europe,20.765278,38.925556,1179
+YFB,Iqaluit,Iqaluit,Canada,North America,Northern America,-68.555833,63.756389,1182
 TZL,Tuzla International,Tuzla,Bosnia & Herzegovina,Europe,Southern Europe,18.725556,44.458611,1185
-SCO,Aktau,Aktau,Kazakhstan,Asia,Central Asia,51.091944,43.86,1188
-EXT,Exeter,Exeter,United Kingdom,Europe,Northern Europe,-3.413889,50.734444,1189
-KKN,"Kirkenes Airport, Høybuktmoen",Kirkenes,Norway,Europe,Northern Europe,29.891389,69.725833,1190
-JUB,Juba International,Juba,South Sudan,Africa,Eastern Africa,31.601111,4.871944,1196
-SSG,Malabo International,Malabo,Equatorial Guinea,Africa,Central Africa,8.708611,3.755278,1197
-IXL,Kushok Bakula Rimpochee,Leh,Unknown Region,Asia,Southern Asia,77.546389,34.135833,1201
-RMI,Federico Fellini International,Rimini,Italy,Europe,Southern Europe,12.609444,44.019444,1202
-BVC,Aristides Pereira International,Boa Vista,Cape Verde,Africa,Western Africa,-22.888889,16.136667,1204
-PVK,Aktion National,Preveza,Greece,Europe,Southern Europe,20.765278,38.925556,1205
-RKT,Ras Al Khaimah International,Ras al-Khaimah,United Arab Emirates,Asia,Western Asia,55.938889,25.613611,1208
-KIK,Kirkuk Air Base,Kirkuk,Iraq,Asia,Western Asia,44.3489,35.469501,1209
-SZZ,Solidarity Szczecin–Goleniów,Szczecin,Poland,Europe,Central Europe,14.902222,53.584722,1212
-CDT,Castellón–Costa Azahar,Castellón de la Plana,Spain,Europe,Southern Europe,0.073333,40.214167,1216
-BGG,Bingöl,Bingöl,Turkey,Asia,Western Asia,40.5925,38.861389,1218
-DHI,Dhangadhi,Dhangadhi,Nepal,Asia,Southern Asia,80.5825,28.754722,1222
-LYR,"Svalbard Airport, Longyear",Longyearbyen,Svalbard & Jan Mayen,Europe,Northern Europe,15.465556,78.246111,1223
-VAN,Van Ferit Melen,Van,Turkey,Asia,Western Asia,43.332222,38.468333,1226
-NUM,Neom Bay Airport,Neom,Saudi Arabia,Asia,Western Asia,35.29,27.925,1227
-LRH,La Rochelle – Île de Ré,La Rochelle,France,Europe,Western Europe,-1.195278,46.179167,1231
-ATZ,Assiut,Asyut,Egypt,Africa,Northern Africa,31.011944,27.046389,1232
-AAE,Rabah Bitat,Annaba,Algeria,Africa,Northern Africa,7.809167,36.822222,1233
-KZR,Zafer,Kütahya,Turkey,Asia,Western Asia,30.136226,39.108436,1241
-GRZ,Graz,Graz,Austria,Europe,Central Europe,15.44,46.993611,1251
-BZG,Bydgoszcz Ignacy Jan Paderewski,Bydgoszcz,Poland,Europe,Central Europe,17.977778,53.096667,1252
-ERZ,Erzurum,Erzurum,Turkey,Asia,Western Asia,41.170278,39.956389,1254
-BES,Brest Bretagne,Brest,France,Europe,Western Europe,-4.421667,48.447222,1255
-BGF,Bangui M Poko International,Bangui,Central African Republic,Africa,Central Africa,18.52,4.397778,1257
-OZZ,Ouarzazate,Ouarzazate,Morocco,Africa,Northern Africa,-6.909444,30.939167,1258
-PIX,Pico,Pico Island,Portugal,Europe,Southern Europe,-28.441389,38.554444,1261
-CCF,Carcassonne,Carcassonne,France,Europe,Western Europe,2.308611,43.215833,1262
-CRA,Craiova International,Craiova,Romania,Europe,Eastern Europe,23.888611,44.318056,1264
-OHD,Ohrid St. Paul the Apostle,Ohrid,Republic of North Macedonia,Europe,Southern Europe,20.742222,41.18,1267
-SVJ,"Svolvær Airport, Helle",Svolvær,Norway,Europe,Northern Europe,14.669444,68.243889,1268
-AQI,Al Qaisumah/Hafr Al Batin,Qaisumah,Saudi Arabia,Asia,Western Asia,46.125,28.335278,1272
-KCM,Kahramanmaraş,Kahramanmaraş,Turkey,Asia,Western Asia,36.953333,37.538889,1278
-GNY,Sanliurfa,Şanlıurfa,Turkey,Asia,Western Asia,38.898752,37.447658,1281
-BHR,Bharatpur,Bharatpur,Nepal,Asia,Southern Asia,84.428056,27.678056,1284
-URC,Ürümqi Diwopu International,Ürümqi,China,Asia,Eastern Asia,87.474167,43.907222,1286
-VXE,Cesária Évora,São Vicente,Cape Verde,Africa,Western Africa,-25.054722,16.833611,1288
-AKR,Akure,Akure,Nigeria,Africa,Western Africa,5.3,7.25,1289
-LXS,Lemnos International,Lemnos,Greece,Europe,Southern Europe,25.236389,39.916944,1292
-ADE,Aden International Airport,Aden,Yemen,Asia,Western Asia,45.028801,12.8295,1297
-PDV,Plovdiv,Plovdiv,Bulgaria,Europe,Eastern Europe,24.850833,42.067778,1300
-BSK,Biskra,Biskra,Algeria,Africa,Northern Africa,5.738333,34.793333,1302
-CMF,Chambéry,Chambéry,France,Europe,Western Europe,5.88,45.639167,1307
-AGR,Agra,Agra,India,Asia,Southern Asia,77.960833,27.155833,1310
-BZR,Béziers Cap d Agde,Béziers,France,Europe,Western Europe,3.353333,43.323333,1317
-MST,Maastricht Aachen,Maastricht,Netherlands,Europe,Western Europe,5.776944,50.915833,1318
-OMO,Mostar,Mostar,Bosnia & Herzegovina,Europe,Southern Europe,17.845833,43.282778,1320
-PNR,Pointe Noire,Pointe-Noire,Republic of the Congo,Africa,Central Africa,11.886667,-4.816111,1327
-TKU,Turku,Turku,Finland,Europe,Northern Europe,22.262778,60.514167,1328
-LNZ,Linz,Linz,Austria,Europe,Central Europe,14.1875,48.233333,1334
-CND,Mihail Kogălniceanu International,Constanța,Romania,Europe,Eastern Europe,28.488333,44.362222,1335
-IOA,Ioannina National,Ioannina,Greece,Europe,Southern Europe,20.8225,39.696389,1337
-NIM,Diori Hamani International,Niamey,Niger,Africa,Western Africa,2.176667,13.481111,1339
+PGF,Perpignan–Rivesaltes,Perpignan,France,Europe,Western Europe,2.869722,42.740833,1186
+HTY,Hatay,Hatay Province,Turkey,Asia,Western Asia,36.284722,36.359722,1187
+MQM,Mardin,Mardin,Turkey,Asia,Western Asia,40.631667,37.223333,1192
+JDH,Jodhpur,Jodhpur,India,Asia,Southern Asia,73.048889,26.251111,1195
+BZG,Bydgoszcz Ignacy Jan Paderewski,Bydgoszcz,Poland,Europe,Central Europe,17.977778,53.096667,1197
+JUB,Juba International,Juba,South Sudan,Africa,Eastern Africa,31.601111,4.871944,1199
+BVC,Aristides Pereira International,Boa Vista,Cape Verde,Africa,Western Africa,-22.888889,16.136667,1209
+EXT,Exeter,Exeter,United Kingdom,Europe,Northern Europe,-3.413889,50.734444,1210
+DHI,Dhangadhi,Dhangadhi,Nepal,Asia,Southern Asia,80.5825,28.754722,1211
+RMI,Federico Fellini International,Rimini,Italy,Europe,Southern Europe,12.609444,44.019444,1217
+LKN,Leknes,Leknes,Norway,Europe,Northern Europe,13.611944,68.154444,1220
+SSG,Malabo International,Malabo,Equatorial Guinea,Africa,Central Africa,8.708611,3.755278,1221
+IXL,Kushok Bakula Rimpochee,Leh,Unknown Region,Asia,Southern Asia,77.546389,34.135833,1222
+GCI,Guernsey,Saint Peter Port,Guernsey,Europe,Northern Europe,-2.601944,49.434722,1227
+CCF,Carcassonne,Carcassonne,France,Europe,Western Europe,2.308611,43.215833,1230
+CDT,Castellón–Costa Azahar,Castellón de la Plana,Spain,Europe,Southern Europe,0.073333,40.214167,1231
+KIK,Kirkuk Air Base,Kirkuk,Iraq,Asia,Western Asia,44.3489,35.469501,1233
+OZZ,Ouarzazate,Ouarzazate,Morocco,Africa,Northern Africa,-6.909444,30.939167,1238
+SVJ,"Svolvær Airport, Helle",Svolvær,Norway,Europe,Northern Europe,14.669444,68.243889,1242
+VAN,Van Ferit Melen,Van,Turkey,Asia,Western Asia,43.332222,38.468333,1246
+BGG,Bingöl,Bingöl,Turkey,Asia,Western Asia,40.5925,38.861389,1249
+LRH,La Rochelle – Île de Ré,La Rochelle,France,Europe,Western Europe,-1.195278,46.179167,1252
+AKR,Akure,Akure,Nigeria,Africa,Western Africa,5.3,7.25,1256
+KZR,Zafer,Kütahya,Turkey,Asia,Western Asia,30.136226,39.108436,1259
+BGF,Bangui M Poko International,Bangui,Central African Republic,Africa,Central Africa,18.52,4.397778,1260
+ERZ,Erzurum,Erzurum,Turkey,Asia,Western Asia,41.170278,39.956389,1261
+CMF,Chambéry,Chambéry,France,Europe,Western Europe,5.88,45.639167,1264
+PDV,Plovdiv,Plovdiv,Bulgaria,Europe,Eastern Europe,24.850833,42.067778,1265
+AQJ,King Hussein International,Aqaba,Jordan,Asia,Western Asia,35.018056,29.611667,1268
+GRZ,Graz,Graz,Austria,Europe,Central Europe,15.44,46.993611,1272
+BSK,Biskra,Biskra,Algeria,Africa,Northern Africa,5.738333,34.793333,1275
+LXS,Lemnos International,Lemnos,Greece,Europe,Southern Europe,25.236389,39.916944,1278
+VXE,Cesária Évora,São Vicente,Cape Verde,Africa,Western Africa,-25.054722,16.833611,1280
+NUM,Neom Bay Airport,Neom,Saudi Arabia,Asia,Western Asia,35.29,27.925,1281
+AAE,Rabah Bitat,Annaba,Algeria,Africa,Northern Africa,7.809167,36.822222,1283
+AQI,Al Qaisumah/Hafr Al Batin,Qaisumah,Saudi Arabia,Asia,Western Asia,46.125,28.335278,1284
+KCM,Kahramanmaraş,Kahramanmaraş,Turkey,Asia,Western Asia,36.953333,37.538889,1286
+CND,Mihail Kogălniceanu International,Constanța,Romania,Europe,Eastern Europe,28.488333,44.362222,1288
+URC,Ürümqi Diwopu International,Ürümqi,China,Asia,Eastern Asia,87.474167,43.907222,1289
+PIX,Pico,Pico Island,Portugal,Europe,Southern Europe,-28.441389,38.554444,1306
+LMP,Lampedusa,Lampedusa,Italy,Europe,Southern Europe,12.618333,35.498056,1307
+CRA,Craiova International,Craiova,Romania,Europe,Eastern Europe,23.888611,44.318056,1310
+SFT,Skellefteå,Skellefteå,Sweden,Europe,Northern Europe,21.076944,64.624722,1311
+MHQ,Mariehamn,Mariehamn,Åland Islands,Europe,Northern Europe,19.8975,60.121667,1312
+AGR,Agra,Agra,India,Asia,Southern Asia,77.960833,27.155833,1315
+SEN,London Southend,London,United Kingdom,Europe,Northern Europe,0.695556,51.571389,1317
+FSC,Figari–Sud Corse,Figari,France,Europe,Western Europe,9.096667,41.502222,1318
+PNL,Pantelleria,Pantelleria,Italy,Europe,Southern Europe,11.968056,36.815,1320
+JSA,Jaisalmer,Jaisalmer,India,Asia,Southern Asia,70.865,26.888611,1321
+BES,Brest Bretagne,Brest,France,Europe,Western Europe,-4.421667,48.447222,1322
+TPS,Vincenzo Florio Airport Trapani–Birgi,Trapani,Italy,Europe,Southern Europe,12.494167,37.9075,1327
+WIL,Wilson,Nairobi,Kenya,Africa,Eastern Africa,36.814722,-1.321667,1328
+MST,Maastricht Aachen,Maastricht,Netherlands,Europe,Western Europe,5.776944,50.915833,1332
