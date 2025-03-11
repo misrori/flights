@@ -106,6 +106,38 @@ locations = pd.DataFrame(list(map(lambda x:{
 },  data['locations'] )))
 
 
+# bali
+# get locations
+params_bali = {
+    'lat': '-8.3',
+    'lon': '115',
+    'radius': 800,
+    'locale': 'en-US',
+    'location_types': 'airport',
+    'limit': '500',
+    'sort':'rank',
+    'active_only': 'true',
+}
+
+response = requests.get('https://api.tequila.kiwi.com/locations/radius', params=params_bali, headers=headers)
+
+data_bali = response.json()
+locations_bali = pd.DataFrame(list(map(lambda x:{
+    'id': x['id'],
+    'name': x['name'],
+    'city': x['city']['name'],
+    'country': x['city']['country']['name'],
+    'continent': x['city']['continent']['name'],
+    'region': x['city']['region']['name'],
+    'lon': x['location']['lon'],
+    'lat': x['location']['lat'], 
+    'rank':x['rank']
+},  data_bali['locations'] )))
+
+
+
+locations = pd.concat([locations, locations_bali], ignore_index=True).reset_index(drop=True)
+
 locations.to_csv(f'{CSV_DATA}/airportrs.csv', index=False)
 
 airport_ids = list(locations[locations['continent']== 'Europe']['id'])
