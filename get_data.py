@@ -26,7 +26,13 @@ NEW_FILE = CSV_DATA + '/' + TODATE + 'BUD'
 
 
 def get_one_dest(destination_id):
-
+    if destination_id in locations_bali['id']:
+        MIN_STAY = 14
+        MAX_STAY = 35
+    else:
+        MIN_STAY = 0
+        MAX_STAY = 7
+    
     params = {
         'fly_from': START_LOCATION_ID,
         'fly_to': destination_id,
@@ -36,7 +42,6 @@ def get_one_dest(destination_id):
         'nights_in_dst_from':MIN_STAY,
         'nights_in_dst_to':MAX_STAY,
         'curr':'HUF'
-
     }
 
     response = requests.get('https://api.tequila.kiwi.com/v2/search', params=params, headers=headers)
