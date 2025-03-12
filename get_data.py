@@ -162,14 +162,11 @@ combined_df = pd.concat(data_frames, ignore_index=True)
 
 bali_data = combined_df[combined_df['dest_id'].isin(locations_bali['id'].tolist())]
 
-combined_df = combined_df[combined_df['price']<50000]
+cheap_combined_df = combined_df[combined_df['price']<50000]
 
 # add back the bali data
-combined_df = pd.concat([combined_df, bali_data], ignore_index=True)
+df = pd.concat([cheap_combined_df, bali_data], ignore_index=True)
 
-
-
-df = combined_df
 
 
 # process_data
