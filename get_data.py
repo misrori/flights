@@ -160,7 +160,12 @@ for airport_id in airport_ids:
 
 combined_df = pd.concat(data_frames, ignore_index=True)
 
+bali_data = combined_df[combined_df['dest_id'].isin(locations_bali['id'].tolist())]
+
 combined_df = combined_df[combined_df['price']<50000]
+
+# add back the bali data
+combined_df = pd.concat([combined_df, bali_data], ignore_index=True)
 
 
 
