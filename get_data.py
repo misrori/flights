@@ -142,6 +142,8 @@ locations.to_csv(f'{CSV_DATA}/airportrs.csv', index=False)
 
 airport_ids = list(locations[locations['continent']== 'Europe']['id'])
 
+# add bali
+airport_ids.extend(locations_bali['id'])
 
 current_date_string = datetime.now().strftime("%d/%m/%Y")
 future_date = datetime.now() + timedelta(days = MAX_PLAN_FORWARD_DAYS)
