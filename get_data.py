@@ -26,7 +26,7 @@ NEW_FILE = CSV_DATA + '/' + TODATE + 'BUD'
 
 
 def get_one_dest(destination_id):
-    if destination_id in locations_bali['id']:
+    if destination_id in locations_bali['id'].tolist():
         MIN_STAY = 14
         MAX_STAY = 35
     else:
