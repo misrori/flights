@@ -499,20 +499,19 @@ ETZ,Metz–Nancy–Lorraine,Metz,France,Europe,Western Europe,6.246667,48.978333
 URA,Oral Ak Zhol,Oral,Kazakhstan,Asia,Central Asia,51.541667,51.151111,1418
 BSK,Biskra,Biskra,Algeria,Africa,Northern Africa,5.738333,34.793333,1421
 IOA,Ioannina National,Ioannina,Greece,Europe,Southern Europe,20.8225,39.696389,1424
-DPS,Ngurah Rai International,Denpasar,Indonesia,Asia,South-Eastern Asia,115.167222,-8.748056,89
-LOP,Lombok International,"Praya, Lombok",Indonesia,Asia,South-Eastern Asia,116.276667,-8.757222,626
-SUB,Juanda International,Surabaya,Indonesia,Asia,South-Eastern Asia,112.786944,-7.379722,648
-LBJ,Komodo,Labuan Bajo,Indonesia,Asia,South-Eastern Asia,119.889167,-8.486667,692
-YIA,Yogyakarta International Airport,Yogyakarta,Indonesia,Asia,South-Eastern Asia,110.05448,-7.907459,845
-UPG,Sultan Hasanuddin International,Makassar,Indonesia,Asia,South-Eastern Asia,119.554167,-5.061667,856
-SRG,Ahmad Yani International,Semarang,Indonesia,Asia,South-Eastern Asia,110.374167,-6.971389,1032
-TMC,Tambolaka,Tambolaka,Indonesia,Asia,South-Eastern Asia,119.244444,-9.409722,1091
-SOC,Adisumarmo International,Surakarta,Indonesia,Asia,South-Eastern Asia,110.756944,-7.516111,1160
-BDJ,Syamsudin Noor International,Banjarmasin,Indonesia,Asia,South-Eastern Asia,114.7625,-3.442222,1190
-JOG,Adisutjipto International,Yogyakarta,Indonesia,Asia,South-Eastern Asia,110.431667,-7.788056,1464
-PKN,Iskandar,Pangkalan Bun,Indonesia,Asia,South-Eastern Asia,111.673333,-2.705278,1700
-BMU,Sultan Muhammad Salahudin,Bima,Indonesia,Asia,South-Eastern Asia,118.687222,-8.539722,1748
-ENE,H. Hasan Aroeboesman,Ende,Indonesia,Asia,South-Eastern Asia,121.660556,-8.849167,1780
+DPS,Ngurah Rai International,Denpasar,Indonesia,Asia,South-Eastern Asia,115.167222,-8.748056,91
+LOP,Lombok International,"Praya, Lombok",Indonesia,Asia,South-Eastern Asia,116.276667,-8.757222,603
+SUB,Juanda International,Surabaya,Indonesia,Asia,South-Eastern Asia,112.786944,-7.379722,643
+LBJ,Komodo,Labuan Bajo,Indonesia,Asia,South-Eastern Asia,119.889167,-8.486667,694
+YIA,Yogyakarta International Airport,Yogyakarta,Indonesia,Asia,South-Eastern Asia,110.05448,-7.907459,811
+UPG,Sultan Hasanuddin International,Makassar,Indonesia,Asia,South-Eastern Asia,119.554167,-5.061667,834
+SOC,Adisumarmo International,Surakarta,Indonesia,Asia,South-Eastern Asia,110.756944,-7.516111,1084
+TMC,Tambolaka,Tambolaka,Indonesia,Asia,South-Eastern Asia,119.244444,-9.409722,1115
+SRG,Ahmad Yani International,Semarang,Indonesia,Asia,South-Eastern Asia,110.374167,-6.971389,1212
+JOG,Adisutjipto International,Yogyakarta,Indonesia,Asia,South-Eastern Asia,110.431667,-7.788056,1432
+BDJ,Syamsudin Noor International,Banjarmasin,Indonesia,Asia,South-Eastern Asia,114.7625,-3.442222,1579
+ENE,H. Hasan Aroeboesman,Ende,Indonesia,Asia,South-Eastern Asia,121.660556,-8.849167,1775
+BMU,Sultan Muhammad Salahudin,Bima,Indonesia,Asia,South-Eastern Asia,118.687222,-8.539722,1875
 BWX,Blimbingsari,Banyuwangi,Indonesia,Asia,South-Eastern Asia,114.34,-8.310278,2048
 SUP,Trunojoyo Airport,Sumenep,Indonesia,Asia,South-Eastern Asia,113.890206,-7.02425,2048
 MLG,Abdul Rachman Saleh,Malang,Indonesia,Asia,South-Eastern Asia,112.714444,-7.926667,2048
@@ -525,6 +524,7 @@ KSR,Haji Aroeppala,Selayar Regency,Indonesia,Asia,South-Eastern Asia,120.43866,-
 BJW,Turelelo Soa,Bajawa,Indonesia,Asia,South-Eastern Asia,121.057778,-8.707778,2048
 SMQ,H. Asan,Sampit,Indonesia,Asia,South-Eastern Asia,112.975,-2.499167,2048
 PKY,Tjilik Riwut,Palangka Raya,Indonesia,Asia,South-Eastern Asia,113.942778,-2.225,2048
+PKN,Iskandar,Pangkalan Bun,Indonesia,Asia,South-Eastern Asia,111.673333,-2.705278,2048
 KJT,Kertajati International,Kertajati,Indonesia,Asia,South-Eastern Asia,108.191111,-6.669167,2048
 MJU,Tampa Padang,Mamuju Regency,Indonesia,Asia,South-Eastern Asia,119.027778,-2.588333,2048
 MOF,Frans Xavier Seda,Maumere,Indonesia,Asia,South-Eastern Asia,122.236944,-8.640556,2048
